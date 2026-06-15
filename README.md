@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2026-06-14
+**Top IMDb Movies as of:** 2026-06-15
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2026-01-01,2026-12-31)
 
@@ -24,102 +24,102 @@
 
 ## IMDb Top 50 Movies List
 
-1. [Backrooms](https://www.imdb.com/title/tt26657236/)
+1. [Disclosure Day](https://www.imdb.com/title/tt15047880/)
 
-2. [Masters of the Universe](https://www.imdb.com/title/tt0427340/)
+2. [Backrooms](https://www.imdb.com/title/tt26657236/)
 
-3. [Scary Movie](https://www.imdb.com/title/tt32093575/)
+3. [Masters of the Universe](https://www.imdb.com/title/tt0427340/)
 
-4. [Office Romance](https://www.imdb.com/title/tt33397980/)
+4. [Michael](https://www.imdb.com/title/tt11378946/)
 
-5. [Michael](https://www.imdb.com/title/tt11378946/)
+5. [Scary Movie](https://www.imdb.com/title/tt32093575/)
 
-6. [Hoppers](https://www.imdb.com/title/tt26443616/)
+6. [Heart of the Beast](https://www.imdb.com/title/tt7526136/)
 
-7. [Disclosure Day](https://www.imdb.com/title/tt15047880/)
+7. [Office Romance](https://www.imdb.com/title/tt33397980/)
 
 8. [Project Hail Mary](https://www.imdb.com/title/tt12042730/)
 
-9. [Star Wars: The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
+9. [The Odyssey](https://www.imdb.com/title/tt33764258/)
 
-10. [Hokum](https://www.imdb.com/title/tt35672862/)
+10. [They Will Kill You](https://www.imdb.com/title/tt31728330/)
 
-11. [In the Grey](https://www.imdb.com/title/tt27681354/)
+11. [Mortal Kombat II](https://www.imdb.com/title/tt17490712/)
 
-12. [The Odyssey](https://www.imdb.com/title/tt33764258/)
+12. [Over Your Dead Body](https://www.imdb.com/title/tt34685692/)
 
-13. [Ladies First](https://www.imdb.com/title/tt34611082/)
+13. [Hoppers](https://www.imdb.com/title/tt26443616/)
 
-14. [Pressure](https://www.imdb.com/title/tt32547691/)
+14. [Toy Story 5](https://www.imdb.com/title/tt29355505/)
 
-15. [Remarkably Bright Creatures](https://www.imdb.com/title/tt33100314/)
+15. [In the Grey](https://www.imdb.com/title/tt27681354/)
 
-16. [Apex](https://www.imdb.com/title/tt16431404/)
+16. [Star Wars: The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
 
-17. [The Sheep Detectives](https://www.imdb.com/title/tt32565993/)
+17. [Hokum](https://www.imdb.com/title/tt35672862/)
 
-18. [Tom Clancy's Jack Ryan: Ghost War](https://www.imdb.com/title/tt34378301/)
+18. [Bhooth Bangla](https://www.imdb.com/title/tt29540862/)
 
-19. [Maa Behen](https://www.imdb.com/title/tt33538438/)
+19. [Supergirl](https://www.imdb.com/title/tt8814476/)
 
-20. [Iron Lung](https://www.imdb.com/title/tt27564844/)
+20. [Colors of Evil: Black](https://www.imdb.com/title/tt38681832/)
 
-21. [Hai Jawani Toh Ishq Hona Hai](https://www.imdb.com/title/tt30447822/)
+21. [The Social Reckoning](https://www.imdb.com/title/tt37510326/)
 
-22. [Mortal Kombat II](https://www.imdb.com/title/tt17490712/)
+22. [Remarkably Bright Creatures](https://www.imdb.com/title/tt33100314/)
 
-23. [Send Help](https://www.imdb.com/title/tt8036976/)
+23. [The Amazing Digital Circus: The Last Act](https://www.imdb.com/title/tt41635245/)
 
-24. [Toy Story 5](https://www.imdb.com/title/tt29355505/)
+24. [Maternal Instinct](https://www.imdb.com/title/tt42863533/)
 
-25. [Supergirl](https://www.imdb.com/title/tt8814476/)
+25. [Apex](https://www.imdb.com/title/tt16431404/)
 
-26. [The Devil Wears Prada 2](https://www.imdb.com/title/tt33612209/)
+26. [Ladies First](https://www.imdb.com/title/tt34611082/)
 
-27. [Passenger](https://www.imdb.com/title/tt33763941/)
+27. [The Sheep Detectives](https://www.imdb.com/title/tt32565993/)
 
-28. [Lee Cronin's The Mummy](https://www.imdb.com/title/tt32612507/)
+28. [Dhurandhar: The Revenge](https://www.imdb.com/title/tt39139925/)
 
-29. [Seven Snipers](https://www.imdb.com/title/tt36926359/)
+29. [The Marked Woman](https://www.imdb.com/title/tt32129938/)
 
-30. [Over Your Dead Body](https://www.imdb.com/title/tt34685692/)
+30. [Send Help](https://www.imdb.com/title/tt8036976/)
 
-31. [Scream 7](https://www.imdb.com/title/tt27047903/)
+31. [Tom Clancy's Jack Ryan: Ghost War](https://www.imdb.com/title/tt34378301/)
 
-32. [The End of Oak Street](https://www.imdb.com/title/tt27165187/)
+32. [The Devil Wears Prada 2](https://www.imdb.com/title/tt33612209/)
 
-33. [The Marked Woman](https://www.imdb.com/title/tt32129938/)
+33. [Pressure](https://www.imdb.com/title/tt32547691/)
 
-34. [How to Rob a Bank](https://www.imdb.com/title/tt35866986/)
+34. [Shelter](https://www.imdb.com/title/tt32357218/)
 
-35. [The Drama](https://www.imdb.com/title/tt33071426/)
+35. [Spider-Man: Brand New Day](https://www.imdb.com/title/tt22084616/)
 
-36. [Dhurandhar: The Revenge](https://www.imdb.com/title/tt39139925/)
+36. [The Death of Robin Hood](https://www.imdb.com/title/tt32273171/)
 
-37. [The Bride!](https://www.imdb.com/title/tt30851137/)
+37. [Lee Cronin's The Mummy](https://www.imdb.com/title/tt32612507/)
 
-38. [Shelter](https://www.imdb.com/title/tt32357218/)
+38. [Stop! That! Train!](https://www.imdb.com/title/tt38128726/)
 
-39. [Spider-Man: Brand New Day](https://www.imdb.com/title/tt22084616/)
+39. [The Drama](https://www.imdb.com/title/tt33071426/)
 
-40. [Is God Is](https://www.imdb.com/title/tt34379307/)
+40. [Iron Lung](https://www.imdb.com/title/tt27564844/)
 
-41. [The Amazing Digital Circus: The Last Act](https://www.imdb.com/title/tt41635245/)
+41. [Scream 7](https://www.imdb.com/title/tt27047903/)
 
-42. [GOAT](https://www.imdb.com/title/tt27613895/)
+42. [Saccharine](https://www.imdb.com/title/tt35050712/)
 
-43. [The Super Mario Galaxy Movie](https://www.imdb.com/title/tt28650488/)
+43. [Maa Behen](https://www.imdb.com/title/tt33538438/)
 
-44. [The Death of Robin Hood](https://www.imdb.com/title/tt32273171/)
+44. [The Dog Stars](https://www.imdb.com/title/tt21285562/)
 
-45. [Wuthering Heights](https://www.imdb.com/title/tt32897959/)
+45. [Colony](https://www.imdb.com/title/tt34385135/)
 
-46. [Colony](https://www.imdb.com/title/tt34385135/)
+46. [Whalefall](https://www.imdb.com/title/tt28535715/)
 
-47. [The Breadwinner](https://www.imdb.com/title/tt34459219/)
+47. [Moana](https://www.imdb.com/title/tt27419466/)
 
-48. [Peddi](https://www.imdb.com/title/tt23865918/)
+48. [Hai Jawani Toh Ishq Hona Hai](https://www.imdb.com/title/tt30447822/)
 
-49. [Kara](https://www.imdb.com/title/tt37458112/)
+49. [The Super Mario Galaxy Movie](https://www.imdb.com/title/tt28650488/)
 
-50. [Swapped](https://www.imdb.com/title/tt29552248/)
+50. [Seven Snipers](https://www.imdb.com/title/tt36926359/)
