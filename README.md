@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2026-07-05
+**Top IMDb Movies as of:** 2026-07-06
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2026-01-01,2026-12-31)
 
@@ -26,100 +26,100 @@
 
 1. [The Sheep Detectives](https://www.imdb.com/title/tt32565993/)
 
-2. [Supergirl](https://www.imdb.com/title/tt8814476/)
+2. [Project Hail Mary](https://www.imdb.com/title/tt12042730/)
 
-3. [Voicemails for Isabelle](https://www.imdb.com/title/tt10375624/)
+3. [Supergirl](https://www.imdb.com/title/tt8814476/)
 
-4. [Citizen Vigilante](https://www.imdb.com/title/tt35309713/)
+4. [The Odyssey](https://www.imdb.com/title/tt33764258/)
 
-5. [Toy Story 5](https://www.imdb.com/title/tt29355505/)
+5. [Backrooms](https://www.imdb.com/title/tt26657236/)
 
-6. [Disclosure Day](https://www.imdb.com/title/tt15047880/)
+6. [Citizen Vigilante](https://www.imdb.com/title/tt35309713/)
 
-7. [Little Brother](https://www.imdb.com/title/tt34888871/)
+7. [Enola Holmes 3](https://www.imdb.com/title/tt32278481/)
 
-8. [Backrooms](https://www.imdb.com/title/tt26657236/)
+8. [Voicemails for Isabelle](https://www.imdb.com/title/tt10375624/)
 
-9. [Welcome to the Jungle](https://www.imdb.com/title/tt28540171/)
+9. [Young Washington](https://www.imdb.com/title/tt32104007/)
 
-10. [Masters of the Universe](https://www.imdb.com/title/tt0427340/)
+10. [Toy Story 5](https://www.imdb.com/title/tt29355505/)
 
-11. [Project Hail Mary](https://www.imdb.com/title/tt12042730/)
+11. [Disclosure Day](https://www.imdb.com/title/tt15047880/)
 
-12. [Michael](https://www.imdb.com/title/tt11378946/)
+12. [Minions & Monsters](https://www.imdb.com/title/tt32890033/)
 
-13. [The Odyssey](https://www.imdb.com/title/tt33764258/)
+13. [Lee Cronin's The Mummy](https://www.imdb.com/title/tt32612507/)
 
-14. [Spider-Man: Brand New Day](https://www.imdb.com/title/tt22084616/)
+14. [Werwulf](https://www.imdb.com/title/tt35514120/)
 
-15. [Cocktail 2](https://www.imdb.com/title/tt35064672/)
+15. [The Invite](https://www.imdb.com/title/tt14173636/)
 
-16. [Jackass: Best and Last](https://www.imdb.com/title/tt39316472/)
+16. [Michael](https://www.imdb.com/title/tt11378946/)
 
-17. [Scary Movie](https://www.imdb.com/title/tt32093575/)
+17. [Masters of the Universe](https://www.imdb.com/title/tt0427340/)
 
-18. [The Death of Robin Hood](https://www.imdb.com/title/tt32273171/)
+18. [Little Brother](https://www.imdb.com/title/tt34888871/)
 
-19. [Pressure](https://www.imdb.com/title/tt32547691/)
+19. [Ready or Not 2: Here I Come](https://www.imdb.com/title/tt33978029/)
 
-20. [Practical Magic 2](https://www.imdb.com/title/tt32588798/)
+20. [Spider-Man: Brand New Day](https://www.imdb.com/title/tt22084616/)
 
-21. [Leviticus](https://www.imdb.com/title/tt39143902/)
+21. [The Devil Wears Prada 2](https://www.imdb.com/title/tt33612209/)
 
-22. [The Invite](https://www.imdb.com/title/tt14173636/)
+22. [Alpha](https://www.imdb.com/title/tt28363783/)
 
-23. [Minions & Monsters](https://www.imdb.com/title/tt32890033/)
+23. [Man of War](https://www.imdb.com/title/tt34584846/)
 
-24. [How to Make a Killing](https://www.imdb.com/title/tt4357198/)
+24. [The Death of Robin Hood](https://www.imdb.com/title/tt32273171/)
 
-25. [They Will Kill You](https://www.imdb.com/title/tt31728330/)
+25. [Scary Movie](https://www.imdb.com/title/tt32093575/)
 
-26. [Star Wars: The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
+26. [Moana](https://www.imdb.com/title/tt27419466/)
 
-27. [In the Grey](https://www.imdb.com/title/tt27681354/)
+27. [Jackass: Best and Last](https://www.imdb.com/title/tt39316472/)
 
-28. [Mortal Kombat II](https://www.imdb.com/title/tt17490712/)
+28. [Evil Dead Burn](https://www.imdb.com/title/tt31170389/)
 
-29. [Hoppers](https://www.imdb.com/title/tt26443616/)
+29. [Cocktail 2](https://www.imdb.com/title/tt35064672/)
 
-30. [Sense and Sensibility](https://www.imdb.com/title/tt13609648/)
+30. [Pressure](https://www.imdb.com/title/tt32547691/)
 
-31. [Over Your Dead Body](https://www.imdb.com/title/tt34685692/)
+31. [The Devil's Mouth](https://www.imdb.com/title/tt36958312/)
 
-32. [Strung](https://www.imdb.com/title/tt15532464/)
+32. [In the Grey](https://www.imdb.com/title/tt27681354/)
 
-33. [Apex](https://www.imdb.com/title/tt16431404/)
+33. [They Will Kill You](https://www.imdb.com/title/tt31728330/)
 
-34. [Office Romance](https://www.imdb.com/title/tt33397980/)
+34. [Send Help](https://www.imdb.com/title/tt8036976/)
 
-35. [Hokum](https://www.imdb.com/title/tt35672862/)
+35. [Mortal Kombat II](https://www.imdb.com/title/tt17490712/)
 
-36. [Remarkably Bright Creatures](https://www.imdb.com/title/tt33100314/)
+36. [Hokum](https://www.imdb.com/title/tt35672862/)
 
-37. [Send Help](https://www.imdb.com/title/tt8036976/)
+37. [Over Your Dead Body](https://www.imdb.com/title/tt34685692/)
 
-38. [The Drama](https://www.imdb.com/title/tt33071426/)
+38. [The Get Out](https://www.imdb.com/title/tt32321803/)
 
-39. [Moana](https://www.imdb.com/title/tt27419466/)
+39. [Leviticus](https://www.imdb.com/title/tt39143902/)
 
-40. [Your Fault: London](https://www.imdb.com/title/tt36958376/)
+40. [Hoppers](https://www.imdb.com/title/tt26443616/)
 
-41. [Dhurandhar: The Revenge](https://www.imdb.com/title/tt39139925/)
+41. [The Drama](https://www.imdb.com/title/tt33071426/)
 
-42. [Maternal Instinct](https://www.imdb.com/title/tt42863533/)
+42. [Star Wars: The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
 
-43. [The Devil Wears Prada 2](https://www.imdb.com/title/tt33612209/)
+43. [How to Make a Killing](https://www.imdb.com/title/tt4357198/)
 
-44. [Deep Water](https://www.imdb.com/title/tt29516222/)
+44. [Welcome to the Jungle](https://www.imdb.com/title/tt28540171/)
 
-45. [Power Ballad](https://www.imdb.com/title/tt32267691/)
+45. [Dhurandhar: The Revenge](https://www.imdb.com/title/tt39139925/)
 
-46. [Blast](https://www.imdb.com/title/tt37971394/)
+46. [Remarkably Bright Creatures](https://www.imdb.com/title/tt33100314/)
 
-47. [Your Mother Your Mother Your Mother](https://www.imdb.com/title/tt35856037/)
+47. [Apex](https://www.imdb.com/title/tt16431404/)
 
-48. [I Love Boosters](https://www.imdb.com/title/tt30827810/)
+48. [Crime 101](https://www.imdb.com/title/tt32430579/)
 
-49. [Lee Cronin's The Mummy](https://www.imdb.com/title/tt32612507/)
+49. [Karakkam](https://www.imdb.com/title/tt37561290/)
 
-50. [Savage House](https://www.imdb.com/title/tt31349852/)
+50. [Office Romance](https://www.imdb.com/title/tt33397980/)
