@@ -37,7 +37,7 @@
   {
     "name": "Obsession",
     "rating": 8,
-    "votes": 206362,
+    "votes": 207399,
     "link": "https://www.imdb.com/title/tt37287335/",
     "image": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_.jpg",
     "plot": "After breaking the mysterious &quot;One Wish Willow&quot; to win his crush&apos;s heart, a hopeless romantic finds himself getting exactly what he asked for, but he soon discovers that some desires come at a dark, sinister price.",
@@ -72,7 +72,7 @@
   {
     "name": "The Sheep Detectives",
     "rating": 7.4,
-    "votes": 64188,
+    "votes": 64705,
     "link": "https://www.imdb.com/title/tt32565993/",
     "image": "https://m.media-amazon.com/images/M/MV5BNTFmZWI4YmMtNmQ0ZC00ZGQwLTk1OWEtZjAyZmIzOGY0MGFiXkEyXkFqcGc@._V1_.jpg",
     "plot": "Every night a shepherd reads aloud a murder mystery, pretending his sheep can understand. When he is found dead, the sheep realize at once that it was a murder and think they know everything about how to go about solving it.",
@@ -107,7 +107,7 @@
   {
     "name": "Project Hail Mary",
     "rating": 8.2,
-    "votes": 416238,
+    "votes": 417211,
     "link": "https://www.imdb.com/title/tt12042730/",
     "image": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_.jpg",
     "plot": "A science teacher wakes up alone on a spaceship. As his memory returns, he uncovers a mission to stop a mysterious substance killing Earth&apos;s sun, and realizes that an unexpected friendship may be the key.",
@@ -142,7 +142,7 @@
   {
     "name": "Evil Dead Burn",
     "rating": 6.8,
-    "votes": 8483,
+    "votes": 8930,
     "link": "https://www.imdb.com/title/tt31170389/",
     "image": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_.jpg",
     "plot": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows she took in life - survive even in death.",
@@ -176,8 +176,8 @@
   },
   {
     "name": "Moana",
-    "rating": 5.9,
-    "votes": 3955,
+    "rating": 5.8,
+    "votes": 4209,
     "link": "https://www.imdb.com/title/tt27419466/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_.jpg",
     "plot": "Live-action adaptation of the 2016 Disney animated film &apos;Moana.&apos;",
@@ -212,7 +212,7 @@
   {
     "name": "Satluj",
     "rating": 9.2,
-    "votes": 101436,
+    "votes": 101586,
     "link": "https://www.imdb.com/title/tt28089784/",
     "image": "https://m.media-amazon.com/images/M/MV5BOTk1YTdiMDItZjAzOS00Njc0LTk3YTUtYjdiMWMyNDFhM2QzXkEyXkFqcGc@._V1_.jpg",
     "plot": "Based on the life of prominent human rights activist Jaswant Singh Khalra",
@@ -247,28 +247,28 @@
   {
     "name": "The Invite",
     "rating": 7.9,
-    "votes": 8465,
+    "votes": 8847,
     "link": "https://www.imdb.com/title/tt14173636/",
     "image": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_.jpg",
     "plot": "Joe and Angela&apos;s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
     "genres": "Comedy, Drama, Romance",
     "runtime": 107,
     "certificate": "R",
-    "keywords": "based on film, neighbor neighbor relationship, male female relationship, dinner party, neighbor",
+    "keywords": "neighbor neighbor relationship, male female relationship, husband wife relationship, dysfunctional marriage, based on film",
     "countriesOfOrigin": "US",
-    "meterRanking": "17",
-    "meterRankChange": "UP 11",
+    "meterRanking": "8",
+    "meterRankChange": "UP 9",
     "directors": "Olivia Wilde",
     "writers": "Cesc Gay, Will McCormack, Rashida Jones",
     "stars": "Seth Rogen, Olivia Wilde, Pen\u00e9lope Cruz",
     "topCast": "Seth Rogen, Olivia Wilde, Pen\u00e9lope Cruz, Edward Norton",
     "budget": "",
     "openingWeekendGross": "USD 379,104",
-    "lifetimeGross": "USD 1,369,500",
-    "worldwideGross": "USD 1,369,500",
-    "filmingLocations": "San Francisco, California, USA",
+    "lifetimeGross": "USD 7,384,507",
+    "worldwideGross": "USD 9,643,957",
+    "filmingLocations": "Glen Park Station, San Francisco, California, USA",
     "spokenLanguages": "English",
-    "soundMix": "",
+    "soundMix": "Dolby Digital",
     "aspectRatio": "1.85 : 1",
     "color": "Color",
     "awardWins": 2,
@@ -277,12 +277,12 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-06T08:52:45.923253"
+    "last_updated": "2026-07-13T11:18:57.923845"
   },
   {
     "name": "Backrooms",
     "rating": 7,
-    "votes": 105614,
+    "votes": 105824,
     "link": "https://www.imdb.com/title/tt26657236/",
     "image": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_.jpg",
     "plot": "After a therapist&apos;s patient disappears into a dimension beyond reality, she must venture into the unknown to save him.",
@@ -317,7 +317,7 @@
   {
     "name": "Toy Story 5",
     "rating": 7.5,
-    "votes": 45456,
+    "votes": 45699,
     "link": "https://www.imdb.com/title/tt29355505/",
     "image": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_.jpg",
     "plot": "Woody, Buzz, Jessie and the rest of the gang&apos;s jobs are challenged when they&apos;re introduced to electronics, a new threat to playtime.",
@@ -352,7 +352,7 @@
   {
     "name": "Disclosure Day",
     "rating": 6.7,
-    "votes": 80314,
+    "votes": 80470,
     "link": "https://www.imdb.com/title/tt15047880/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTgwNDI1ZjctYWNmMS00MTJhLTg1ZWItMzI1Yjk5NjZkYWFkXkEyXkFqcGc@._V1_.jpg",
     "plot": "If you found out we weren&apos;t alone, if someone showed you, proved it to you, would that frighten you?",
@@ -387,7 +387,7 @@
   {
     "name": "Voicemails for Isabelle",
     "rating": 7.3,
-    "votes": 33660,
+    "votes": 33866,
     "link": "https://www.imdb.com/title/tt10375624/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTE3MmE2MTYtMjA4OC00ZTIxLWFlNWYtZjk4ZTBkZDdiYzU0XkEyXkFqcGc@._V1_.jpg",
     "plot": "Jill leaves voice messages to her deceased sister telling her about her chaotic life in San Francisco. Unwittingly, a mysterious Austin TX real estate agent begins to receive their confessions..",
@@ -422,7 +422,7 @@
   {
     "name": "Supergirl",
     "rating": 6.1,
-    "votes": 48056,
+    "votes": 48221,
     "link": "https://www.imdb.com/title/tt8814476/",
     "image": "https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_.jpg",
     "plot": "Kara Zor-El, aka Supergirl, joins forces with an unlikely companion on an interstellar journey of vengeance and justice when an unexpected adversary strikes too close to home.",
@@ -457,7 +457,7 @@
   {
     "name": "The Mummy",
     "rating": 6.2,
-    "votes": 52521,
+    "votes": 52777,
     "link": "https://www.imdb.com/title/tt32612507/",
     "image": "https://m.media-amazon.com/images/M/MV5BNWQ1NzI2YTUtN2E0ZS00YzVmLTkxNjktMWIzNTYwMzkyOTU0XkEyXkFqcGc@._V1_.jpg",
     "plot": "Eight years after her sudden disappearance in Egypt, a severely traumatized teenager is returned to her shattered family in New Mexico, triggering a visceral nightmare as they realize she is hosting an ancient, demonic parasite.",
@@ -492,7 +492,7 @@
   {
     "name": "Minions &amp; Monsters",
     "rating": 6.5,
-    "votes": 10905,
+    "votes": 11085,
     "link": "https://www.imdb.com/title/tt32890033/",
     "image": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_.jpg",
     "plot": "Follows the Minions in 1920s Hollywood as they search for frightening creatures for their monster movie, partner with a green creature, and must save the planet after unleashing monsters.",
@@ -527,7 +527,7 @@
   {
     "name": "Huo zhe yan",
     "rating": 7.5,
-    "votes": 12860,
+    "votes": 13000,
     "link": "https://www.imdb.com/title/tt33311069/",
     "image": "https://m.media-amazon.com/images/M/MV5BODUyZjg2YzctNGE3Yi00YjhhLTkyZTItZTAwZTNhNDA1ODQzXkEyXkFqcGc@._V1_.jpg",
     "plot": "A father fights fiercely against ruthless kidnappers to save his abducted daughter.",
@@ -562,7 +562,7 @@
   {
     "name": "Enola Holmes 3",
     "rating": 5.8,
-    "votes": 16681,
+    "votes": 16858,
     "link": "https://www.imdb.com/title/tt32278481/",
     "image": "https://m.media-amazon.com/images/M/MV5BYzVhNmQ0MzItNjg3Mi00MzM1LWI5MDUtOGZlMTFjNTJjMTM2XkEyXkFqcGc@._V1_.jpg",
     "plot": "Detective Enola Holmes heads to Malta, where her aspirations merge in her most complex and dangerous case yet.",
@@ -571,8 +571,8 @@
     "certificate": "PG-13",
     "keywords": "teen adventure, mother daughter relationship, sociopathic woman, clue, character name in title",
     "countriesOfOrigin": "US",
-    "meterRanking": "9",
-    "meterRankChange": "UP 160",
+    "meterRanking": "17",
+    "meterRankChange": "DOWN 8",
     "directors": "Philip Barantini",
     "writers": "Jack Thorne, Nancy Springer",
     "stars": "Millie Bobby Brown, Henry Cavill, Helena Bonham Carter",
@@ -592,12 +592,12 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-06T03:40:22.692194"
+    "last_updated": "2026-07-13T11:18:57.923845"
   },
   {
     "name": "Young Washington",
     "rating": 7.5,
-    "votes": 6640,
+    "votes": 6743,
     "link": "https://www.imdb.com/title/tt32104007/",
     "image": "https://m.media-amazon.com/images/M/MV5BNTE3NDY5OWUtZmM5Ny00NDJiLTlkZDQtN2E5MWFjZWUyMDZkXkEyXkFqcGc@._V1_.jpg",
     "plot": "A young George Washington faces war, betrayal and impossible choices that will forge a leader.",
@@ -606,17 +606,17 @@
     "certificate": "PG-13",
     "keywords": "native american, native america, american history, surrender, plantation",
     "countriesOfOrigin": "US",
-    "meterRanking": "11",
-    "meterRankChange": "UP 59",
+    "meterRanking": "18",
+    "meterRankChange": "DOWN 7",
     "directors": "Jon Erwin",
     "writers": "Diederik Hoogstraten, Tom Provost, Jon Erwin",
     "stars": "William Franklyn-Miller, Mary-Louise Parker, Leo Hanna",
     "topCast": "William Franklyn-Miller, Mary-Louise Parker, Leo Hanna, Mia Rodgers",
     "budget": "",
-    "openingWeekendGross": "USD 20,847,688",
-    "lifetimeGross": "USD 20,847,688",
-    "worldwideGross": "USD 20,847,688",
-    "filmingLocations": "Virginia, USA",
+    "openingWeekendGross": "USD 19,372,216",
+    "lifetimeGross": "USD 33,105,849",
+    "worldwideGross": "USD 33,105,849",
+    "filmingLocations": "Ireland",
     "spokenLanguages": "English",
     "soundMix": "",
     "aspectRatio": "2.39 : 1",
@@ -627,7 +627,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-06T08:52:45.923253"
+    "last_updated": "2026-07-13T11:18:57.923845"
   },
   {
     "name": "Dune: Part Three",
@@ -701,8 +701,8 @@
   },
   {
     "name": "Michael",
-    "rating": 7.5,
-    "votes": 148256,
+    "rating": 7.4,
+    "votes": 148411,
     "link": "https://www.imdb.com/title/tt11378946/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_.jpg",
     "plot": "The early life of musician Michael Jackson, from the discovery of his talent as the lead of the Jackson Five to the artist whose creative ambition fueled a pursuit to become the biggest entertainer in the world.",
@@ -737,7 +737,7 @@
   {
     "name": "Hopeu",
     "rating": 6.9,
-    "votes": 440,
+    "votes": 443,
     "link": "https://www.imdb.com/title/tt27369017/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzQwNzI5OTUtZjEzOS00ODI0LTk1MTEtNTNjNTdmYjFmNGQwXkEyXkFqcGc@._V1_.jpg",
     "plot": "A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before.",
@@ -772,7 +772,7 @@
   {
     "name": "Masters of the Universe",
     "rating": 6.8,
-    "votes": 44438,
+    "votes": 44512,
     "link": "https://www.imdb.com/title/tt0427340/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTJjYTFkM2EtZjBmNy00OTk2LTg0NTAtNzYxYzlmNjhkMzQ5XkEyXkFqcGc@._V1_.jpg",
     "plot": "A young man on Earth discovers a fabulous secret legacy as the prince of an alien planet, and must recover a magic sword and return home to protect his kingdom.",
@@ -807,7 +807,7 @@
   {
     "name": "Passenger",
     "rating": 5.5,
-    "votes": 10990,
+    "votes": 11103,
     "link": "https://www.imdb.com/title/tt33763941/",
     "image": "https://m.media-amazon.com/images/M/MV5BNDhmZmJlMDctNTA3MS00NTkwLThkZGQtMjM5MTdmMDg2YjBjXkEyXkFqcGc@._V1_.jpg",
     "plot": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger won&apos;t stop until it claims them both.",
@@ -842,7 +842,7 @@
   {
     "name": "The Long Walk",
     "rating": 6.7,
-    "votes": 128303,
+    "votes": 128531,
     "link": "https://www.imdb.com/title/tt10374610/",
     "image": "https://m.media-amazon.com/images/M/MV5BNmE4YmIxNWQtMzJhMy00NDI5LWFmYjEtMGYyMmFhNzdjODVmXkEyXkFqcGc@._V1_.jpg",
     "plot": "A group of teenage boys compete in an annual contest known as &quot;The Long Walk,&quot; in which they must maintain a certain walking speed or get shot.",
@@ -877,7 +877,7 @@
   {
     "name": "Citizen Vigilante",
     "rating": 6.1,
-    "votes": 30131,
+    "votes": 30206,
     "link": "https://www.imdb.com/title/tt35309713/",
     "image": "https://m.media-amazon.com/images/M/MV5BN2FjZjE2YmUtNjE2NS00ZjcyLWEwMzUtZGYwNzI0ZWQxODVlXkEyXkFqcGc@._V1_.jpg",
     "plot": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
@@ -912,7 +912,7 @@
   {
     "name": "Ready or Not: Here I Come",
     "rating": 6.5,
-    "votes": 55675,
+    "votes": 55899,
     "link": "https://www.imdb.com/title/tt33978029/",
     "image": "https://m.media-amazon.com/images/M/MV5BZTM3N2EyMTEtNDhkMi00ZjNiLWI0MWUtOGViMjExODY3YTJhXkEyXkFqcGc@._V1_.jpg",
     "plot": "Grace MacCaullay battles old wounds with her estranged sister Faith MacCaullay while rival occult dynasties hunt them through a deadly contest that promises power, survival, and betrayal before dawn.",
@@ -947,7 +947,7 @@
   {
     "name": "The Housemaid",
     "rating": 6.7,
-    "votes": 171777,
+    "votes": 171889,
     "link": "https://www.imdb.com/title/tt27543632/",
     "image": "https://m.media-amazon.com/images/M/MV5BNjZiYjg3YzEtZTkwOS00MWYzLTgxODctNmNhMWU2MTI2YmVjXkEyXkFqcGc@._V1_.jpg",
     "plot": "Millie a struggling young woman becomes live in maid for a wealthy couple Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
@@ -982,7 +982,7 @@
   {
     "name": "Tuner",
     "rating": 7.2,
-    "votes": 14661,
+    "votes": 14739,
     "link": "https://www.imdb.com/title/tt33296751/",
     "image": "https://m.media-amazon.com/images/M/MV5BNDA0ZjZjYTktZjg1MC00MDRiLWEzYjItMTQ1ZWFkOTUxNjc0XkEyXkFqcGc@._V1_.jpg",
     "plot": "A talented piano tuner who suffers from hyperacusis discovers an unexpected aptitude for cracking safes, turning his life upside down.",
@@ -1017,7 +1017,7 @@
   {
     "name": "Avatar: Fire and Ash",
     "rating": 7.2,
-    "votes": 187906,
+    "votes": 188045,
     "link": "https://www.imdb.com/title/tt1757678/",
     "image": "https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_.jpg",
     "plot": "Jake and Neytiri&apos;s family grapples with grief, encountering a new, aggressive Na&apos;vi tribe, the Ash People, who are led by the fiery Varang, as the conflict on Pandora escalates and a new moral focus emerges.",
@@ -1051,8 +1051,8 @@
   },
   {
     "name": "The Outer Threat",
-    "rating": 4.7,
-    "votes": 271,
+    "rating": 4.6,
+    "votes": 293,
     "link": "https://www.imdb.com/title/tt33372918/",
     "image": "https://m.media-amazon.com/images/M/MV5BNjBhZGE0NWUtNzkxMy00NDY1LWE2ZmEtMTNjZmY1OTc4ZjBkXkEyXkFqcGc@._V1_.jpg",
     "plot": "An astrophysicist&apos;s alien discovery forces him and his family to flee their home, chased by a mysterious pursuer. Their escape tests the limits between cosmic truth and paranoia.",
@@ -1087,7 +1087,7 @@
   {
     "name": "Ikka",
     "rating": 5.7,
-    "votes": 1613,
+    "votes": 1683,
     "link": "https://www.imdb.com/title/tt39632269/",
     "image": "https://m.media-amazon.com/images/M/MV5BOWE0ZTYxYTEtZDY5Ni00NDhkLWEyNjItMDc1NzE1MGJjMzhlXkEyXkFqcGc@._V1_.jpg",
     "plot": "A respected attorney must defend a murder suspect he previously brought down. Forced into the case, he bends every rule to secure freedom for his former enemy or risk losing all he cherishes.",
@@ -1122,7 +1122,7 @@
   {
     "name": "The Devil Wears Prada 2",
     "rating": 6.5,
-    "votes": 70864,
+    "votes": 70991,
     "link": "https://www.imdb.com/title/tt33612209/",
     "image": "https://m.media-amazon.com/images/M/MV5BZmM3ZDU3ODItZmY5Yi00OTQ2LWE5OTctZTA5NDBhMWJkOGY3XkEyXkFqcGc@._V1_.jpg",
     "plot": "Andy Sachs reunites with Miranda Priestly as they navigate their careers amid the decline of traditional magazine publishing.",
@@ -1157,7 +1157,7 @@
   {
     "name": "The Drama",
     "rating": 7.2,
-    "votes": 83733,
+    "votes": 83999,
     "link": "https://www.imdb.com/title/tt33071426/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTcwOGZhYmItYTg3ZS00NjUwLWJiMmQtMjU5YjEwYWY0NmNkXkEyXkFqcGc@._V1_.jpg",
     "plot": "A happily-engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
@@ -1191,8 +1191,8 @@
   },
   {
     "name": "Village of the Giants",
-    "rating": 3.7,
-    "votes": 2983,
+    "rating": 3.8,
+    "votes": 2994,
     "link": "https://www.imdb.com/title/tt0059878/",
     "image": "https://m.media-amazon.com/images/M/MV5BMmU1NGEyOTAtYWExYi00ZTIyLWEwODMtM2ZjZGNhMzcxZmI1XkEyXkFqcGc@._V1_.jpg",
     "plot": "Delinquent teenagers ingest a substance, grow 30 feet tall, and proceed to take over a small town.",
@@ -1236,10 +1236,10 @@
     "certificate": "PG",
     "keywords": "aang character, based on tv series, number 1 in title, digit in title, number in title",
     "countriesOfOrigin": "US",
-    "meterRanking": "95",
-    "meterRankChange": "UP 2",
+    "meterRanking": "36",
+    "meterRankChange": "UP 59",
     "directors": "",
-    "writers": "Kenneth Lin, Michael Dante DiMartino, Bryan Konietzko",
+    "writers": "Kenneth Lin, Michael Dante DiMartino, Tim Hedrick",
     "stars": "Eric Nam, Dave Bautista, Jessica Matten",
     "topCast": "Eric Nam, Dave Bautista, Jessica Matten, Rom\u00e1n Zaragoza",
     "budget": "",
@@ -1257,12 +1257,12 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-06T08:52:45.923253"
+    "last_updated": "2026-07-13T11:18:57.923845"
   },
   {
     "name": "Evil Dead Rise",
     "rating": 6.5,
-    "votes": 171144,
+    "votes": 171209,
     "link": "https://www.imdb.com/title/tt13345606/",
     "image": "https://m.media-amazon.com/images/M/MV5BMjM1ZmViMmYtOGYzZC00YzhmLWE0MTMtMzNjYzcyNjEwYWRkXkEyXkFqcGc@._V1_.jpg",
     "plot": "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
@@ -1297,7 +1297,7 @@
   {
     "name": "Gail Daughtry and the Celebrity Sex Pass",
     "rating": 6.8,
-    "votes": 785,
+    "votes": 816,
     "link": "https://www.imdb.com/title/tt36834010/",
     "image": "https://m.media-amazon.com/images/M/MV5BZTFjOGJhNzEtMWUxMC00Yjc1LWE1MTUtODc4Yzk3MzVjMWUyXkEyXkFqcGc@._V1_.jpg",
     "plot": "When her fianc\u00e9 uses their &quot;celebrity pass&quot; agreement, Midwest bride Gail Daughtry travels to Hollywood seeking revenge by pursuing her own celebrity encounter.",
@@ -1331,8 +1331,8 @@
   },
   {
     "name": "Dhamaal 4",
-    "rating": 7.3,
-    "votes": 13917,
+    "rating": 7.2,
+    "votes": 14268,
     "link": "https://www.imdb.com/title/tt27548557/",
     "image": "https://m.media-amazon.com/images/M/MV5BNTI2YTA2YzktMGUwOS00Njk3LWE0M2MtNDE4YTljNDdjNjNlXkEyXkFqcGc@._V1_.jpg",
     "plot": "The Dhamaal boys are back and ready to chase the &quot;Treasure of Life,&quot; facing crazy challenges along the way. What starts as a treasure hunt quickly turns into a rollercoaster of hilarious misadventures.",
@@ -1367,7 +1367,7 @@
   {
     "name": "Good Luck, Have Fun, Don&apos;t Die",
     "rating": 7,
-    "votes": 61525,
+    "votes": 61641,
     "link": "https://www.imdb.com/title/tt1341338/",
     "image": "https://m.media-amazon.com/images/M/MV5BOTQ0NzYzM2QtOWYzMC00MGU5LWJmMTQtYTU1ODU0ZjUwYjk0XkEyXkFqcGc@._V1_.jpg",
     "plot": "A &quot;Man From the Future&quot; arrives at a diner in Los Angeles where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intel...",
@@ -1402,7 +1402,7 @@
   {
     "name": "Moana",
     "rating": 7.6,
-    "votes": 444683,
+    "votes": 444720,
     "link": "https://www.imdb.com/title/tt3521164/",
     "image": "https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_.jpg",
     "plot": "In ancient Polynesia, when a terrible curse incurred by the demigod Maui reaches Moana&apos;s island, she answers the Ocean&apos;s call to seek out Maui to set things right.",
@@ -1437,7 +1437,7 @@
   {
     "name": "Little Brother",
     "rating": 5.5,
-    "votes": 9810,
+    "votes": 9880,
     "link": "https://www.imdb.com/title/tt34888871/",
     "image": "https://m.media-amazon.com/images/M/MV5BNDVmOWNhNWYtM2Y1MS00MWFjLTlkNTctMTRkNmMxM2UwODZlXkEyXkFqcGc@._V1_.jpg",
     "plot": "A famous real estate agent&apos;s life is disrupted when his eccentric little brother unexpectedly reappears.",
@@ -1446,8 +1446,8 @@
     "certificate": "R",
     "keywords": "female nudity, outdoor nudity, male full frontal nudity, sex scene, buddy comedy",
     "countriesOfOrigin": "US",
-    "meterRanking": "20",
-    "meterRankChange": "DOWN 12",
+    "meterRanking": "42",
+    "meterRankChange": "DOWN 22",
     "directors": "Matt Spicer",
     "writers": "Jarrad Paul, Andrew Mogel",
     "stars": "John Cena, Eric Andr\u00e9, Michelle Monaghan",
@@ -1467,12 +1467,12 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-06T08:52:45.923253"
+    "last_updated": "2026-07-13T11:18:57.923845"
   },
   {
     "name": "The Shawshank Redemption",
     "rating": 9.3,
-    "votes": 3205699,
+    "votes": 3205756,
     "link": "https://www.imdb.com/title/tt0111161/",
     "image": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg",
     "plot": "After a banker is sentenced to life in Shawshank Prison, he forms an unlikely friendship with a seasoned inmate and clings to hope amid cruelty and corruption.",
@@ -1506,8 +1506,8 @@
   },
   {
     "name": "Alpha",
-    "rating": 3.2,
-    "votes": 22676,
+    "rating": 3.1,
+    "votes": 22715,
     "link": "https://www.imdb.com/title/tt28363783/",
     "image": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_.jpg",
     "plot": "Driven by revenge, a young girl destroys anyone in her path until her journey uncovers the hidden truths of her own life. She is bold, cold, and ready to cross any line, hurting anyone who stands in her way.",
@@ -1516,8 +1516,8 @@
     "certificate": "",
     "keywords": "spy, yrf spy universe, spy action, yash raj films spy universe",
     "countriesOfOrigin": "IN",
-    "meterRanking": "26",
-    "meterRankChange": "UP 118",
+    "meterRanking": "44",
+    "meterRankChange": "DOWN 18",
     "directors": "Shiv Rawail",
     "writers": "Uday Chopra, Ishita Moitra, Shridhar Raghavan",
     "stars": "Alia Bhatt, Sharvari, Anil Kapoor",
@@ -1525,7 +1525,7 @@
     "budget": "",
     "openingWeekendGross": "",
     "lifetimeGross": "",
-    "worldwideGross": "",
+    "worldwideGross": "USD 405,237",
     "filmingLocations": "Valladolid, Spain",
     "spokenLanguages": "Hindi, Tamil, Telugu",
     "soundMix": "Dolby Digital, Dolby Atmos",
@@ -1537,12 +1537,12 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-06T03:40:22.692194"
+    "last_updated": "2026-07-13T11:18:57.923845"
   },
   {
     "name": "The Death of Robin Hood",
     "rating": 6.2,
-    "votes": 5776,
+    "votes": 5790,
     "link": "https://www.imdb.com/title/tt32273171/",
     "image": "https://m.media-amazon.com/images/M/MV5BYTRmNzlmZjEtYjkzMC00MmNjLThiOGYtZjM5MjFiZDQyM2IwXkEyXkFqcGc@._V1_.jpg",
     "plot": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
@@ -1577,7 +1577,7 @@
   {
     "name": "Scary Movie",
     "rating": 5.2,
-    "votes": 31812,
+    "votes": 31857,
     "link": "https://www.imdb.com/title/tt32093575/",
     "image": "https://m.media-amazon.com/images/M/MV5BNTJjMDk1NzAtMGVmNS00NTFmLWFlOTQtZDk5M2I2NjZiZDdlXkEyXkFqcGc@._V1_.jpg",
     "plot": "Two friends find themselves caught up in mayhem involving killers, monsters and supernatural creatures once again.",
@@ -1612,7 +1612,7 @@
   {
     "name": "Undertone",
     "rating": 5.9,
-    "votes": 24487,
+    "votes": 24584,
     "link": "https://www.imdb.com/title/tt35892608/",
     "image": "https://m.media-amazon.com/images/M/MV5BZDY1YzI5NWUtYTdmYi00N2YyLWJmOWMtYWZiZTY5NTE0MjIxXkEyXkFqcGc@._V1_.jpg",
     "plot": "Evy Babic, a skeptical paranormal pod-caster caring for her comatose mother, receives disturbing recordings tied to a folkloric threat, and every new file pulls her closer to fears she can no longer explain away.",
@@ -1621,8 +1621,8 @@
     "certificate": "R",
     "keywords": "supernatural horror, podcaster, podcast, psychological horror, folk horror",
     "countriesOfOrigin": "CA",
-    "meterRanking": "68",
-    "meterRankChange": "DOWN 37",
+    "meterRanking": "47",
+    "meterRankChange": "UP 21",
     "directors": "Ian Tuason",
     "writers": "",
     "stars": "Nina Kiri, Adam DiMarco, Mich\u00e8le Duquet",
@@ -1630,7 +1630,7 @@
     "budget": "",
     "openingWeekendGross": "USD 9,069,849",
     "lifetimeGross": "USD 20,001,151",
-    "worldwideGross": "USD 21,574,261",
+    "worldwideGross": "USD 21,585,980",
     "filmingLocations": "Toronto, Ontario, Canada",
     "spokenLanguages": "English",
     "soundMix": "Dolby Atmos",
@@ -1642,12 +1642,12 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-06T08:52:45.923253"
+    "last_updated": "2026-07-13T11:18:57.923845"
   },
   {
     "name": "Old Henry",
     "rating": 7.3,
-    "votes": 46499,
+    "votes": 46561,
     "link": "https://www.imdb.com/title/tt12731980/",
     "image": "https://m.media-amazon.com/images/M/MV5BYzI5NTJiZTYtNDE0MS00ZTc3LWFiZTItOTY2Y2NlYTc2Mzc0XkEyXkFqcGc@._V1_.jpg",
     "plot": "A farmer takes in an injured man with a satchel of cash. When a posse comes for the money, he must decide who to trust. Defending a siege, he reveals a gunslinging talent calling his true identity into question.",
@@ -1682,7 +1682,7 @@
   {
     "name": "Send Help",
     "rating": 6.7,
-    "votes": 134228,
+    "votes": 134330,
     "link": "https://www.imdb.com/title/tt8036976/",
     "image": "https://m.media-amazon.com/images/M/MV5BOTgxOWY5NTMtYjdiNi00NTIyLTkwMTQtMWNjM2IzYTU0ODgyXkEyXkFqcGc@._V1_.jpg",
     "plot": "An overworked analyst and her arrogant nepo-baby boss survive a plane crash near Thailand and must cooperate to survive on a remote jungle island while their workplace power dynamic collapses around them.",
@@ -1717,7 +1717,7 @@
   {
     "name": "They Will Kill You",
     "rating": 6.3,
-    "votes": 41388,
+    "votes": 41471,
     "link": "https://www.imdb.com/title/tt31728330/",
     "image": "https://m.media-amazon.com/images/M/MV5BODIzZGNhNGUtOWM2My00ODM4LThmOWQtNTkzMzYwMTZhYzU1XkEyXkFqcGc@._V1_.jpg",
     "plot": "A woman takes a job as a housekeeper in a NYC high-rise, unaware of the building&apos;s history of disappearances. She soon realizes the community is shrouded in mystery.",
@@ -1752,7 +1752,7 @@
   {
     "name": "Interstellar",
     "rating": 8.7,
-    "votes": 2555146,
+    "votes": 2555249,
     "link": "https://www.imdb.com/title/tt0816692/",
     "image": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
     "plot": "In a dystopian future where Earth has become near-uninhabitable, a team of astronauts embark on a mission to find a new home for humanity.",
@@ -1787,7 +1787,7 @@
   {
     "name": "In the Grey",
     "rating": 6.3,
-    "votes": 27216,
+    "votes": 27278,
     "link": "https://www.imdb.com/title/tt27681354/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTZkMTIzMTItMTQwZS00MTg4LWE0MTEtM2NiNmUzYjRmMGUxXkEyXkFqcGc@._V1_.jpg",
     "plot": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they&apos;re sent to take it back-an impossible heist that erupts into a deadly game of strategy, deception and survival.",
@@ -1822,7 +1822,7 @@
   {
     "name": "Black Box",
     "rating": 5,
-    "votes": 1075,
+    "votes": 1117,
     "link": "https://www.imdb.com/title/tt32315584/",
     "image": "https://m.media-amazon.com/images/M/MV5BNmFiZTE1YzAtZjUwOC00NTFhLWFkZDgtMWY4NTRmNjNjODhiXkEyXkFqcGc@._V1_.jpg",
     "plot": "Vero Airlines Flight 298 from New Orleans to Seattle becomes the center of a chilling supernatural mystery.",
@@ -1857,7 +1857,7 @@
   {
     "name": "Boulevard",
     "rating": 4.9,
-    "votes": 429,
+    "votes": 451,
     "link": "https://www.imdb.com/title/tt38235625/",
     "image": "https://m.media-amazon.com/images/M/MV5BNDZmNGU2NGMtMTNkOC00MTk5LTlkN2EtYWQxZTRmMDcxMDYwXkEyXkFqcGc@._V1_.jpg",
     "plot": "Two high school outcasts find unexpected connection despite their personal demons. As Halsey battles addiction and Luke confronts his own darkness, their growing feelings force them to question if love is worth the risk.",
@@ -1892,7 +1892,7 @@
   {
     "name": "Troy",
     "rating": 7.3,
-    "votes": 620343,
+    "votes": 620380,
     "link": "https://www.imdb.com/title/tt0332452/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTk5MzU1MDMwMF5BMl5BanBnXkFtZTcwNjczODMzMw@@._V1_.jpg",
     "plot": "An adaptation of Homer&apos;s great epic, the film follows the assault on Troy by the united Greek forces.",
@@ -1927,7 +1927,7 @@
   {
     "name": "Enola Holmes",
     "rating": 6.7,
-    "votes": 250721,
+    "votes": 250775,
     "link": "https://www.imdb.com/title/tt7846844/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTRlYmI1NTMtYTVkYi00MjJkLWE3ZGItOThkYTdhNzBhMThhXkEyXkFqcGc@._V1_.jpg",
     "plot": "When Enola Holmes, Sherlock&apos;s sister, discovers her mother is missing, she endeavors to find her, becoming a super-sleuth in her own right as she outwits her famous brother and unravels a dangerous conspiracy.",
@@ -1936,8 +1936,8 @@
     "certificate": "PG-13",
     "keywords": "based on novel, runaway, breaking the fourth wall, feminism, female detective",
     "countriesOfOrigin": "US",
-    "meterRanking": "32",
-    "meterRankChange": "UP 204",
+    "meterRanking": "56",
+    "meterRankChange": "DOWN 24",
     "directors": "Harry Bradbeer",
     "writers": "Jack Thorne, Nancy Springer, Arthur Conan Doyle",
     "stars": "Millie Bobby Brown, Henry Cavill, Sam Claflin",
@@ -1957,12 +1957,12 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-06T03:40:22.692194"
+    "last_updated": "2026-07-13T11:18:57.923845"
   },
   {
     "name": "Hokum",
     "rating": 6.7,
-    "votes": 45307,
+    "votes": 45381,
     "link": "https://www.imdb.com/title/tt35672862/",
     "image": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_.jpg",
     "plot": "A horror writer visits an Irish inn to scatter his parents&apos; ashes, unaware the property is said to be haunted by a witch.",
@@ -1997,7 +1997,7 @@
   {
     "name": "Pressure",
     "rating": 7.3,
-    "votes": 13882,
+    "votes": 13926,
     "link": "https://www.imdb.com/title/tt32547691/",
     "image": "https://m.media-amazon.com/images/M/MV5BMjE2YjdkNDctMDg1MS00MjBjLWIyZjEtZWM1ZjczNTAzZGEyXkEyXkFqcGc@._V1_.jpg",
     "plot": "In the tense 72 hours before D-Day, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice--launch the most dangerous seaborne invasion in history or risk losing the war altogether.",
@@ -2032,7 +2032,7 @@
   {
     "name": "Remarkably Bright Creatures",
     "rating": 7.7,
-    "votes": 40829,
+    "votes": 40892,
     "link": "https://www.imdb.com/title/tt33100314/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzM3OTRlZDktYTk0OS00OTlmLWFhMjctMTZiODU4N2RiYzhhXkEyXkFqcGc@._V1_.jpg",
     "plot": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
@@ -2067,7 +2067,7 @@
   {
     "name": "Over Your Dead Body",
     "rating": 6.3,
-    "votes": 24031,
+    "votes": 24076,
     "link": "https://www.imdb.com/title/tt34685692/",
     "image": "https://m.media-amazon.com/images/M/MV5BMWU2M2YyNTMtZGM4ZC00MDcwLWI3NmItZWM0YjIyOTEyNDZhXkEyXkFqcGc@._V1_.jpg",
     "plot": "A dysfunctional married couple retreats to a secluded cabin to repair their relationship, but each secretly plots to murder the other.",
@@ -2102,7 +2102,7 @@
   {
     "name": "Sinners",
     "rating": 7.5,
-    "votes": 500482,
+    "votes": 500560,
     "link": "https://www.imdb.com/title/tt31193180/",
     "image": "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg",
     "plot": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
@@ -2137,7 +2137,7 @@
   {
     "name": "Evil Dead",
     "rating": 6.5,
-    "votes": 214586,
+    "votes": 214629,
     "link": "https://www.imdb.com/title/tt1288558/",
     "image": "https://m.media-amazon.com/images/M/MV5BYjkwODM5ZWUtMjI2Ni00Y2RiLWJkNDYtZWQ2ZTRhMjI1N2FmXkEyXkFqcGc@._V1_.jpg",
     "plot": "Five friends head to a remote cabin, where the discovery of a Book of the Dead leads them to unwittingly summon up demons living in the nearby woods.",
@@ -2172,7 +2172,7 @@
   {
     "name": "How to Make a Killing",
     "rating": 6.5,
-    "votes": 34063,
+    "votes": 34159,
     "link": "https://www.imdb.com/title/tt4357198/",
     "image": "https://m.media-amazon.com/images/M/MV5BOTkwY2JjMWYtOGU4YS00ZTg0LWIzYzUtZDkxNDE5NWNkNWM1XkEyXkFqcGc@._V1_.jpg",
     "plot": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
@@ -2207,7 +2207,7 @@
   {
     "name": "Ready or Not",
     "rating": 6.9,
-    "votes": 256557,
+    "votes": 256608,
     "link": "https://www.imdb.com/title/tt7798634/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTViMDA4YjgtZDQ4NC00ZDk2LTg0MWItOTc4MTkwMmVkZWRmXkEyXkFqcGc@._V1_.jpg",
     "plot": "A bride&apos;s wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.",
@@ -2216,8 +2216,8 @@
     "certificate": "R",
     "keywords": "evil rich family, dark family secret, dysfunctional family, hide and seek, hunting people",
     "countriesOfOrigin": "US",
-    "meterRanking": "44",
-    "meterRankChange": "UP 161",
+    "meterRanking": "64",
+    "meterRankChange": "DOWN 20",
     "directors": "",
     "writers": "Guy Busick, R. Christopher Murphy",
     "stars": "Samara Weaving, Adam Brody, Mark O'Brien",
@@ -2237,12 +2237,12 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-06T03:40:22.692194"
+    "last_updated": "2026-07-13T11:18:57.923845"
   },
   {
     "name": "Superman",
     "rating": 7,
-    "votes": 428125,
+    "votes": 428185,
     "link": "https://www.imdb.com/title/tt5950044/",
     "image": "https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_.jpg",
     "plot": "Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent. As the embodiment of truth, justice and the American way he soon finds himself in a world that views these as old-fashioned.",
@@ -2312,7 +2312,7 @@
   {
     "name": "Mortal Kombat II",
     "rating": 6.4,
-    "votes": 60264,
+    "votes": 60337,
     "link": "https://www.imdb.com/title/tt17490712/",
     "image": "https://m.media-amazon.com/images/M/MV5BNTg2YWNkN2EtMzc1Ny00ZTBhLWFmYTItMmMyNzhjNjhhNmVhXkEyXkFqcGc@._V1_.jpg",
     "plot": "The fan favorite champions -- now joined by Johnny Cage himself -- are pitted against one another in the ultimate battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
@@ -2347,7 +2347,7 @@
   {
     "name": "Leviticus",
     "rating": 6.8,
-    "votes": 5344,
+    "votes": 5358,
     "link": "https://www.imdb.com/title/tt39143902/",
     "image": "https://m.media-amazon.com/images/M/MV5BZjVkZjIxMzItMzYyMi00ODMwLWEwMWQtMjhhMTkwMGI5MWEyXkEyXkFqcGc@._V1_.jpg",
     "plot": "Two teenage boys must escape a violent entity that takes the form of the person they desire most - each other.",
@@ -2391,12 +2391,12 @@
     "certificate": "",
     "keywords": "supernatural horror, werewolf horror, psychological horror, body horror, monster horror",
     "countriesOfOrigin": "GB",
-    "meterRanking": "16",
-    "meterRankChange": "UP 198",
+    "meterRanking": "69",
+    "meterRankChange": "DOWN 53",
     "directors": "Robert Eggers",
     "writers": "Robert Eggers, Sj\u00f3n",
-    "stars": "Bodhi Rae Breathnach, Aaron Taylor-Johnson, Willem Dafoe",
-    "topCast": "Bodhi Rae Breathnach, Aaron Taylor-Johnson, Willem Dafoe, Ralph Ineson",
+    "stars": "Bodhi Rae Breathnach, Aaron Taylor-Johnson, Lily-Rose Depp",
+    "topCast": "Bodhi Rae Breathnach, Aaron Taylor-Johnson, Lily-Rose Depp, Willem Dafoe",
     "budget": "",
     "openingWeekendGross": "",
     "lifetimeGross": "",
@@ -2412,12 +2412,12 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-06T03:40:22.692194"
+    "last_updated": "2026-07-13T11:18:57.923845"
   },
   {
     "name": "Pati Patni Aur Woh Do",
     "rating": 6.4,
-    "votes": 6830,
+    "votes": 6867,
     "link": "https://www.imdb.com/title/tt33054858/",
     "image": "https://m.media-amazon.com/images/M/MV5BZmE0ZTA5MTgtNTE4NC00NThmLWFiM2EtZTI2MTc2Y2FmZjkwXkEyXkFqcGc@._V1_.jpg",
     "plot": "Prajapati sees his orderly life unravel after helping a young couple evade a powerful politician, triggering a cascade of mistaken identities, public scandals, and increasingly absurd suspicions that threaten his marriage to Aparna.",
@@ -2452,7 +2452,7 @@
   {
     "name": "Dhurandhar: The Revenge",
     "rating": 8.2,
-    "votes": 66327,
+    "votes": 66350,
     "link": "https://www.imdb.com/title/tt39139925/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzdkNjAxNWMtNWY3My00NTI1LTg2YWQtOGI3MDA0NzdhMjEyXkEyXkFqcGc@._V1_.jpg",
     "plot": "Jaskirat Singh Rangi descends deeper into his alias as Hamza Ali Mazari, rising through Karachi&apos;s criminal hierarchy to claim the feared title &quot;Sher-e-Baloch&quot; while balancing loyalty, betrayal, and survival in a ruthless underworld.",
@@ -2522,7 +2522,7 @@
   {
     "name": "Bugonia",
     "rating": 7.4,
-    "votes": 207389,
+    "votes": 207478,
     "link": "https://www.imdb.com/title/tt12300742/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_.jpg",
     "plot": "Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
@@ -2557,7 +2557,7 @@
   {
     "name": "Inception",
     "rating": 8.8,
-    "votes": 2832498,
+    "votes": 2832582,
     "link": "https://www.imdb.com/title/tt1375666/",
     "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
     "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO, but his tragic past may doom the project and his team to disaster.",
@@ -2592,7 +2592,7 @@
   {
     "name": "Weapons",
     "rating": 7.4,
-    "votes": 377997,
+    "votes": 378094,
     "link": "https://www.imdb.com/title/tt26581740/",
     "image": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_.jpg",
     "plot": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
@@ -2627,7 +2627,7 @@
   {
     "name": "Reminders of Him",
     "rating": 6.3,
-    "votes": 9916,
+    "votes": 9956,
     "link": "https://www.imdb.com/title/tt33714084/",
     "image": "https://m.media-amazon.com/images/M/MV5BNjI4OGM1NDEtYzA1NS00ZDg3LWFmZjUtMjg1MGQ4MTk3NjQzXkEyXkFqcGc@._V1_.jpg",
     "plot": "After prison, a woman attempts to reconnect with her young daughter but faces resistance from everyone except a bar owner with ties to her child. As they grow closer, she must confront her past mistakes to build a hopeful future.",
@@ -2662,7 +2662,7 @@
   {
     "name": "Apex",
     "rating": 6.1,
-    "votes": 96670,
+    "votes": 96722,
     "link": "https://www.imdb.com/title/tt16431404/",
     "image": "https://m.media-amazon.com/images/M/MV5BNjUzODE2ZWYtMDdiMS00ZTA0LWI4MzEtNDkyODNiNmIwMWY1XkEyXkFqcGc@._V1_.jpg",
     "plot": "A mountain climber haunted by a fatal decision in Norway retreats to the Australian wilderness for isolation. Her journey turns into a desperate hunt when a deceptive local targets her as his next ritualistic prey in the bush.",
@@ -2697,7 +2697,7 @@
   {
     "name": "Lost Highway",
     "rating": 7.6,
-    "votes": 171533,
+    "votes": 171542,
     "link": "https://www.imdb.com/title/tt0116922/",
     "image": "https://m.media-amazon.com/images/M/MV5BNjcyNmM2ODktYzk0Mi00Njk0LTljZGMtNGZhMzI4NmY1NzA1XkEyXkFqcGc@._V1_.jpg",
     "plot": "Anonymous videotapes presage a musician&apos;s murder conviction, and a gangster&apos;s girlfriend leads a mechanic astray.",
@@ -2732,7 +2732,7 @@
   {
     "name": "Shipwrecked: Nightmare at Sea",
     "rating": 6.6,
-    "votes": 1032,
+    "votes": 1127,
     "link": "https://www.imdb.com/title/tt43595399/",
     "image": "https://m.media-amazon.com/images/M/MV5BM2I5NGNkZjUtMzU0MC00YzRhLTlhYTYtMWEyOThlNjBlNjcwXkEyXkFqcGc@._V1_.jpg",
     "plot": "Exclusive footage and survivor testimonies chronicle the 2012 sinking of a luxury cruise ship and its aftermath",
@@ -2767,7 +2767,7 @@
   {
     "name": "Hoppers",
     "rating": 7.2,
-    "votes": 72631,
+    "votes": 72715,
     "link": "https://www.imdb.com/title/tt26443616/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzRiMzZlMTMtNmU3OC00MDUwLThmNDUtMTBjZmQ3MWQ4NTljXkEyXkFqcGc@._V1_.jpg",
     "plot": "A 19-year-old animal lover uses technology that places her consciousness into a robotic beaver to uncover mysteries within the animal world beyond her imagination.",
@@ -2802,7 +2802,7 @@
   {
     "name": "Gone Girl",
     "rating": 8.1,
-    "votes": 1176247,
+    "votes": 1176295,
     "link": "https://www.imdb.com/title/tt2267998/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_.jpg",
     "plot": "The husband of a missing woman becomes the main suspect in her disappearance.",
@@ -2811,8 +2811,8 @@
     "certificate": "R",
     "keywords": "missing person, disappearance, murder suspect, husband wife relationship, based on novel",
     "countriesOfOrigin": "US",
-    "meterRanking": "87",
-    "meterRankChange": "UP 102",
+    "meterRanking": "81",
+    "meterRankChange": "UP 6",
     "directors": "David Fincher",
     "writers": "",
     "stars": "Ben Affleck, Rosamund Pike, Neil Patrick Harris",
@@ -2832,12 +2832,12 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-06T03:40:22.692194"
+    "last_updated": "2026-07-13T11:18:57.923845"
   },
   {
     "name": "Hamnet",
     "rating": 7.8,
-    "votes": 123501,
+    "votes": 123560,
     "link": "https://www.imdb.com/title/tt14905854/",
     "image": "https://m.media-amazon.com/images/M/MV5BMDQ5ZmY0OWYtOTYzZi00Mzg5LWE3N2EtMjYwZTAzZmJhYjkyXkEyXkFqcGc@._V1_.jpg",
     "plot": "In late 16th-century England, Agnes, a healer sensitive to the world around her, builds a home with William, a local tutor and aspiring playwright. As their lives fracture, they are tested by distance, silence, and grief.",
@@ -2872,7 +2872,7 @@
   {
     "name": "The Dark Knight",
     "rating": 9.1,
-    "votes": 3186510,
+    "votes": 3186565,
     "link": "https://www.imdb.com/title/tt0468569/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
     "plot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
@@ -2907,7 +2907,7 @@
   {
     "name": "One Battle After Another",
     "rating": 7.6,
-    "votes": 424699,
+    "votes": 424759,
     "link": "https://www.imdb.com/title/tt30144839/",
     "image": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_.jpg",
     "plot": "When their enemy resurfaces after 16 years, a group of ex-revolutionaries reunite to rescue the daughter of one of their own.",
@@ -2942,7 +2942,7 @@
   {
     "name": "Man of War",
     "rating": 5,
-    "votes": 732,
+    "votes": 740,
     "link": "https://www.imdb.com/title/tt34584846/",
     "image": "https://m.media-amazon.com/images/M/MV5BYjhhOWE0NWQtM2VjNC00NDhiLTg4YjQtYzI1NWE0MGM3NjFkXkEyXkFqcGc@._V1_.jpg",
     "plot": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left b...",
@@ -2951,8 +2951,8 @@
     "certificate": "R",
     "keywords": "ukraine and russia war",
     "countriesOfOrigin": "US",
-    "meterRanking": "27",
-    "meterRankChange": "UP 7172",
+    "meterRanking": "85",
+    "meterRankChange": "DOWN 58",
     "directors": "William Kaufman",
     "writers": "William Kaufman, Paul Reichelt",
     "stars": "LaMonica Garrett, Andrew Howard, Linds Edwards",
@@ -2972,12 +2972,12 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-06T03:40:22.692194"
+    "last_updated": "2026-07-13T11:18:57.923845"
   },
   {
     "name": "The Mandalorian and Grogu",
     "rating": 6.9,
-    "votes": 70767,
+    "votes": 70804,
     "link": "https://www.imdb.com/title/tt30825738/",
     "image": "https://m.media-amazon.com/images/M/MV5BYjRkYzAzNjktZmRhMy00NjRiLWE0OTMtYmRmMTE5NDkzY2NlXkEyXkFqcGc@._V1_.jpg",
     "plot": "Once a lone bounty hunter, Mandalorian Din Djarin and his apprentice Grogu embark on an exciting new Star Wars adventure.",
@@ -3012,7 +3012,7 @@
   {
     "name": "Cocktail 2",
     "rating": 7.6,
-    "votes": 26145,
+    "votes": 26150,
     "link": "https://www.imdb.com/title/tt35064672/",
     "image": "https://m.media-amazon.com/images/M/MV5BMjE4ZDFiMjctZTk0Yy00Mzk0LWIzMzItZmRjZTM0YzBjYmRiXkEyXkFqcGc@._V1_.jpg",
     "plot": "After a decade together, Diya and Kunal&apos;s relationship is shaken when Ally, old friend re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them s...",
@@ -3047,7 +3047,7 @@
   {
     "name": "The Godfather",
     "rating": 9.2,
-    "votes": 2236171,
+    "votes": 2236201,
     "link": "https://www.imdb.com/title/tt0068646/",
     "image": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
     "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
@@ -3082,7 +3082,7 @@
   {
     "name": "Deep Water",
     "rating": 5.5,
-    "votes": 7332,
+    "votes": 7348,
     "link": "https://www.imdb.com/title/tt29516222/",
     "image": "https://m.media-amazon.com/images/M/MV5BN2RjZWRiMDgtOTZiMy00M2MxLWI2M2MtMDU4ODc3MGNhM2E0XkEyXkFqcGc@._V1_.jpg",
     "plot": "A group of international passengers en route from Los Angeles to Shanghai are forced to make an emergency landing in shark-infested waters. Now they must work together in hopes to overcome the frenzy of sharks drawn to the wreckage.",
@@ -3117,7 +3117,7 @@
   {
     "name": "Independence Day",
     "rating": 7,
-    "votes": 651160,
+    "votes": 651190,
     "link": "https://www.imdb.com/title/tt0116629/",
     "image": "https://m.media-amazon.com/images/M/MV5BOGMwN2UwZjEtYjFjMi00ZDA1LWJlYTQtMjA1MTYxMzIyNTdiXkEyXkFqcGc@._V1_.jpg",
     "plot": "The aliens are coming and their goal is to invade and destroy Earth. Fighting superior technology, mankind&apos;s best weapon is the will to survive.",
@@ -3126,8 +3126,8 @@
     "certificate": "PG-13",
     "keywords": "exotic dancer, product placement, trailer home, trailer park, vomiting",
     "countriesOfOrigin": "US",
-    "meterRanking": "6",
-    "meterRankChange": "UP 146",
+    "meterRanking": "90",
+    "meterRankChange": "DOWN 84",
     "directors": "Roland Emmerich",
     "writers": "Dean Devlin, Roland Emmerich",
     "stars": "Will Smith, Bill Pullman, Jeff Goldblum",
@@ -3147,12 +3147,12 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-06T03:40:22.692194"
+    "last_updated": "2026-07-13T11:18:57.923845"
   },
   {
     "name": "Jackass: Best and Last",
     "rating": 6.7,
-    "votes": 5073,
+    "votes": 5095,
     "link": "https://www.imdb.com/title/tt39316472/",
     "image": "https://m.media-amazon.com/images/M/MV5BYTRlYzQwYjItNDljNC00YmI2LWEwYmEtMjhhM2NiMGFhNTYyXkEyXkFqcGc@._V1_.jpg",
     "plot": "Follows the Jackass crew as they perform their final series of dangerous stunts and pranks, marking the end of the franchise.",
@@ -3161,16 +3161,16 @@
     "certificate": "R",
     "keywords": "male nudity, male frontal nudity, male full frontal nudity, dark comedy, hidden camera reality tv",
     "countriesOfOrigin": "US",
-    "meterRanking": "33",
-    "meterRankChange": "DOWN 15",
+    "meterRanking": "91",
+    "meterRankChange": "DOWN 58",
     "directors": "Jeff Tremaine",
     "writers": "Jason 'Wee Man' Acu\u00f1a, Tory Belleci, J.P. Blackmon",
     "stars": "Johnny Knoxville, Steve-O, Chris Pontius",
     "topCast": "Johnny Knoxville, Steve-O, Chris Pontius, Jason 'Wee Man' Acu\u00f1a",
     "budget": "USD 10,000,000",
     "openingWeekendGross": "USD 8,464,977",
-    "lifetimeGross": "USD 13,770,480",
-    "worldwideGross": "USD 19,270,480",
+    "lifetimeGross": "USD 17,299,729",
+    "worldwideGross": "USD 24,899,729",
     "filmingLocations": "Los Angeles, California, USA",
     "spokenLanguages": "English",
     "soundMix": "Dolby Atmos",
@@ -3182,12 +3182,12 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-06T08:52:45.923253"
+    "last_updated": "2026-07-13T11:18:57.923845"
   },
   {
     "name": "The Prestige",
     "rating": 8.5,
-    "votes": 1598624,
+    "votes": 1598695,
     "link": "https://www.imdb.com/title/tt0482571/",
     "image": "https://m.media-amazon.com/images/M/MV5BM2Y0YmM5MWYtZTYzNi00ZjU5LTlmOGYtZDQ4ODQyMjAzNjQ2XkEyXkFqcGc@._V1_.jpg",
     "plot": "Two magicians dismantle their lives to outmaneuver each other following a shared tragedy. They chase the ultimate illusion across Victorian London, sacrificing sanity and safety to master a teleportation feat that defies all logic.",
@@ -3222,7 +3222,7 @@
   {
     "name": "Normal",
     "rating": 6.3,
-    "votes": 17663,
+    "votes": 17693,
     "link": "https://www.imdb.com/title/tt31195136/",
     "image": "https://m.media-amazon.com/images/M/MV5BOGIyZjgwMzMtODEzZS00YmFlLTg3NmItOWMwYzhlZDBjY2U3XkEyXkFqcGc@._V1_.jpg",
     "plot": "Centers on a temporary small-town sheriff who uncovers dark mysteries after a local bank robbery.",
@@ -3257,7 +3257,7 @@
   {
     "name": "Nuremberg",
     "rating": 7.3,
-    "votes": 105875,
+    "votes": 105980,
     "link": "https://www.imdb.com/title/tt29567915/",
     "image": "https://m.media-amazon.com/images/M/MV5BMWUzODNkYWUtMmMzOC00NzZjLTlkMTctOTkwM2I2ZWI1MTlmXkEyXkFqcGc@._V1_.jpg",
     "plot": "A WWII psychiatrist evaluates Nazi leaders before the Nuremberg trials, growing increasingly obsessed with understanding evil as he forms a disturbing bond with Hermann G\u00f6ring.",
@@ -3292,7 +3292,7 @@
   {
     "name": "Toy Story",
     "rating": 8.3,
-    "votes": 1185205,
+    "votes": 1185257,
     "link": "https://www.imdb.com/title/tt0114709/",
     "image": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_.jpg",
     "plot": "A cowboy doll is profoundly jealous when a new spaceman action figure supplants him as the top toy in a boy&apos;s bedroom. When circumstances separate them from their owner, the duo have to put aside their differences to return to him.",
@@ -3327,7 +3327,7 @@
   {
     "name": "Spider-Man: No Way Home",
     "rating": 8.1,
-    "votes": 1031903,
+    "votes": 1031940,
     "link": "https://www.imdb.com/title/tt10872600/",
     "image": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_.jpg",
     "plot": "With Spider-Man&apos;s identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear.",
@@ -3362,7 +3362,7 @@
   {
     "name": "The Lord of the Rings: The Fellowship of the Ring",
     "rating": 8.9,
-    "votes": 2216615,
+    "votes": 2216649,
     "link": "https://www.imdb.com/title/tt0120737/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_.jpg",
     "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
@@ -3397,7 +3397,7 @@
   {
     "name": "The Evil Dead",
     "rating": 7.3,
-    "votes": 253436,
+    "votes": 253476,
     "link": "https://www.imdb.com/title/tt0083907/",
     "image": "https://m.media-amazon.com/images/M/MV5BNWRmZGQyYzgtNjA5OC00NGYzLTlhYWMtNzBhZTFlZGNjYWI2XkEyXkFqcGc@._V1_.jpg",
     "plot": "Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.",
@@ -3432,7 +3432,7 @@
   {
     "name": "Crime 101",
     "rating": 6.8,
-    "votes": 85922,
+    "votes": 85960,
     "link": "https://www.imdb.com/title/tt32430579/",
     "image": "https://m.media-amazon.com/images/M/MV5BZThlN2M4ZTUtYTU3Mi00MDE5LWFhYWUtNjkxMWEwNjUwNDVhXkEyXkFqcGc@._V1_.jpg",
     "plot": "A meticulous jewel thief risks his flawless record against an equally obsessive detective and a volatile rival, while an underestimated insurance broker turns accomplice after decades of professional disrespect.",
@@ -3467,7 +3467,7 @@
   {
     "name": "Dune: Part One",
     "rating": 8,
-    "votes": 1072356,
+    "votes": 1072390,
     "link": "https://www.imdb.com/title/tt1160419/",
     "image": "https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_.jpg",
     "plot": "Paul Atreides arrives on Arrakis after his father accepts the stewardship of the dangerous planet. However, chaos ensues after a betrayal as forces clash to control melange, a precious resource.",
