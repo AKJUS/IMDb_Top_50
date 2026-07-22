@@ -2,7 +2,7 @@
   {
     "name": "House of the Dragon",
     "rating": 8.3,
-    "votes": 548408,
+    "votes": 548850,
     "link": "https://www.imdb.com/title/tt11198330/",
     "image": "https://m.media-amazon.com/images/M/MV5BZGM4MTczODQtNGIxOC00Y2U2LTk1YmItNzA2N2VhYmE0Y2YwXkEyXkFqcGc@._V1_.jpg",
     "plot": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen.",
@@ -37,7 +37,7 @@
   {
     "name": "The Hawk",
     "rating": 6.3,
-    "votes": 2630,
+    "votes": 3210,
     "link": "https://www.imdb.com/title/tt27550719/",
     "image": "https://m.media-amazon.com/images/M/MV5BNjA5MDAyYjgtMmQ2ZS00YzRmLWE1ODUtNTg3M2VkZGMxZjEwXkEyXkFqcGc@._V1_.jpg",
     "plot": "Follows Lonnie Hawkins, 2004&apos;s top golfer, as he struggles to recapture his magic late in his career, refusing to believe he&apos;s anything other than one stroke away from golf&apos;s greatest comeback.",
@@ -72,7 +72,7 @@
   {
     "name": "Little House on the Prairie",
     "rating": 7.3,
-    "votes": 4456,
+    "votes": 4674,
     "link": "https://www.imdb.com/title/tt2431250/",
     "image": "https://m.media-amazon.com/images/M/MV5BODQyNzI4Y2EtODE4ZC00MjFjLTg1ZjMtYzJkNDYwZjUxZjQ1XkEyXkFqcGc@._V1_.jpg",
     "plot": "The Ingalls family lives and works on a farm in Midwestern America during the late 19th century.",
@@ -107,7 +107,7 @@
   {
     "name": "Ride or Die",
     "rating": 7.6,
-    "votes": 3220,
+    "votes": 3779,
     "link": "https://www.imdb.com/title/tt30494226/",
     "image": "https://m.media-amazon.com/images/M/MV5BMGUxMjFkMDEtNGJkZC00MTUwLWFiZjUtYWZhZWYxNzE1ZDEwXkEyXkFqcGc@._V1_.jpg",
     "plot": "Debbie discovers that her friend of 20 years, Judith, is secretly an assassin. After a hit goes wrong, they go on the run while being targeted by a mysterious enemy, forcing them to confront the secrets between them.",
@@ -142,7 +142,7 @@
   {
     "name": "I Will Find You",
     "rating": 7.1,
-    "votes": 42991,
+    "votes": 43758,
     "link": "https://www.imdb.com/title/tt34771210/",
     "image": "https://m.media-amazon.com/images/M/MV5BYWFkOGU5ZTYtZTlhMi00NThiLWI3ZDEtMGQ2Y2UzNjlkZTUxXkEyXkFqcGc@._V1_.jpg",
     "plot": "A father imprisoned for his son&apos;s murder receives evidence suggesting his child may be alive, compelling him to escape and uncover the truth.",
@@ -151,8 +151,8 @@
     "certificate": "TV-MA",
     "keywords": "tv mini series, based on novel, innocent, murder, psychological thriller",
     "countriesOfOrigin": "US",
-    "meterRanking": "3",
-    "meterRankChange": "DOWN 1",
+    "meterRanking": "5",
+    "meterRankChange": "DOWN 2",
     "directors": "",
     "writers": "",
     "stars": "Sam Worthington, Britt Lower, Chi McBride",
@@ -172,12 +172,12 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-14T09:02:32.625920"
+    "last_updated": "2026-07-22T02:44:59.649494"
   },
   {
     "name": "Lucky",
     "rating": 6.5,
-    "votes": 1908,
+    "votes": 2079,
     "link": "https://www.imdb.com/title/tt34866681/",
     "image": "https://m.media-amazon.com/images/M/MV5BOGQ0MjkwOTUtMGMyYS00NzFhLTgxMjktNTAwOGViNWM2MWE1XkEyXkFqcGc@._V1_.jpg",
     "plot": "A reformed criminal is forced to confront her past and return to illicit activities for one final job, hoping to secure her freedom and leave her former life behind for good.",
@@ -212,7 +212,7 @@
   {
     "name": "Silo",
     "rating": 8.1,
-    "votes": 221122,
+    "votes": 221322,
     "link": "https://www.imdb.com/title/tt14688458/",
     "image": "https://m.media-amazon.com/images/M/MV5BN2E5ODJmOTUtYTk0NS00NmFiLTk0MTgtZDRlNzE1YmExMjk4XkEyXkFqcGc@._V1_.jpg",
     "plot": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
@@ -247,7 +247,7 @@
   {
     "name": "The Five-Star Weekend",
     "rating": 7.2,
-    "votes": 2118,
+    "votes": 2246,
     "link": "https://www.imdb.com/title/tt35587659/",
     "image": "https://m.media-amazon.com/images/M/MV5BZDQ1OTIwNTAtYTc0NS00NjRlLThjNTktZmFhYzU1ZTJjMTJjXkEyXkFqcGc@._V1_.jpg",
     "plot": "A beloved food influencer grappling with loss hosts four friends from different chapters of her life for a weekend on Nantucket, where hidden truths emerge and relationships evolve amid coastal luxury.",
@@ -282,7 +282,7 @@
   {
     "name": "Widow&apos;s Bay",
     "rating": 8.2,
-    "votes": 52569,
+    "votes": 53094,
     "link": "https://www.imdb.com/title/tt33332385/",
     "image": "https://m.media-amazon.com/images/M/MV5BZDBiMWZlMDQtNzkzMi00YzQzLTkwNTUtNzYwOGY3YmUxNDJjXkEyXkFqcGc@._V1_.jpg",
     "plot": "A skeptical mayor leads the superstitious residents of a cursed New England island.",
@@ -317,7 +317,7 @@
   {
     "name": "Game of Thrones",
     "rating": 9.2,
-    "votes": 2636893,
+    "votes": 2637309,
     "link": "https://www.imdb.com/title/tt0944947/",
     "image": "https://m.media-amazon.com/images/M/MV5BNGYxOGJkMjItZjVkZC00OGEzLWExNjktOTZmNGZhZmRlMTk2XkEyXkFqcGc@._V1_.jpg",
     "plot": "Noble families vie for control of Westeros and its Iron Throne, while an ancient threat beyond the Wall begins to stir.",
@@ -352,7 +352,7 @@
   {
     "name": "Cape Fear",
     "rating": 6.8,
-    "votes": 8996,
+    "votes": 9164,
     "link": "https://www.imdb.com/title/tt34675596/",
     "image": "https://m.media-amazon.com/images/M/MV5BYmZkOTkxNjAtZDY2MS00NTM3LTgwYWItMmNhMzFjMTBlOGI5XkEyXkFqcGc@._V1_.jpg",
     "plot": "A happily married couple faces a growing threat when a notorious killer from their past, Max Cady, is released from prison and seeks revenge.",
@@ -387,7 +387,7 @@
   {
     "name": "Dutton Ranch",
     "rating": 8.3,
-    "votes": 18763,
+    "votes": 18982,
     "link": "https://www.imdb.com/title/tt34991493/",
     "image": "https://m.media-amazon.com/images/M/MV5BMzk0YTExY2EtYzI1NS00M2ZlLWFjOGUtMTQyMDY1MmE2ZGViXkEyXkFqcGc@._V1_.jpg",
     "plot": "Beth Dutton and Rip Wheeler fight to survive on their cherished 7,000-acre ranch amid tough times and stiff competition, while ensuring young Carter becomes the man he&apos;s supposed to be.",
@@ -422,7 +422,7 @@
   {
     "name": "The Bear",
     "rating": 8.5,
-    "votes": 317477,
+    "votes": 317625,
     "link": "https://www.imdb.com/title/tt14452776/",
     "image": "https://m.media-amazon.com/images/M/MV5BMjk2NWI5OTctODcwYy00NGRmLWFmN2YtOTZiNzFiYjVlODBkXkEyXkFqcGc@._V1_.jpg",
     "plot": "A young chef from the fine dining world returns to Chicago to run his family&apos;s sandwich shop.",
@@ -456,8 +456,8 @@
   },
   {
     "name": "Kim-bu-jang",
-    "rating": 7.9,
-    "votes": 2614,
+    "rating": 7.8,
+    "votes": 2727,
     "link": "https://www.imdb.com/title/tt42127457/",
     "image": "https://m.media-amazon.com/images/M/MV5BYmNjNTMyMWQtYmViNi00YWYxLWEzZTctNDQ2MTdhNzU2OTVlXkEyXkFqcGc@._V1_.jpg",
     "plot": "Manager Kim was an ordinary head of a household with a daughter and lived as a small citizen. In order to find his daughter, who is his everything, he reveals a secret that should never be revealed to the world.",
@@ -492,7 +492,7 @@
   {
     "name": "Off Campus",
     "rating": 7.9,
-    "votes": 44941,
+    "votes": 45147,
     "link": "https://www.imdb.com/title/tt33546863/",
     "image": "https://m.media-amazon.com/images/M/MV5BMDA0NzAzNDktYjBiOS00ZjFjLThhZTYtNzlkMDMzOTgxZTk5XkEyXkFqcGc@._V1_.jpg",
     "plot": "A college-set romantic drama chronicling the unexpected love story between a music student and the university&apos;s star hockey player, exploring themes of love and the complexities of adulthood through deep friendships and enduring b...",
@@ -527,7 +527,7 @@
   {
     "name": "Rick and Morty",
     "rating": 9,
-    "votes": 702649,
+    "votes": 702801,
     "link": "https://www.imdb.com/title/tt2861424/",
     "image": "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_.jpg",
     "plot": "The fractured domestic lives of a nihilistic mad scientist and his anxious grandson are further complicated by their inter-dimensional misadventures.",
@@ -562,7 +562,7 @@
   {
     "name": "The Odyssey",
     "rating": 7.1,
-    "votes": 19520,
+    "votes": 19629,
     "link": "https://www.imdb.com/title/tt0118414/",
     "image": "https://m.media-amazon.com/images/M/MV5BN2M2MTkwNTEtZTU1Mi00YmVmLTg4YjgtOTM5MTk4Y2Q5OTgwXkEyXkFqcGc@._V1_.jpg",
     "plot": "Follows Odysseus on his wanderings back to Ithaca following the Trojan War.",
@@ -597,7 +597,7 @@
   {
     "name": "From",
     "rating": 7.8,
-    "votes": 199474,
+    "votes": 199652,
     "link": "https://www.imdb.com/title/tt9813792/",
     "image": "https://m.media-amazon.com/images/M/MV5BNDAwNDljNWEtNWE1Zi00YjFlLWEzM2UtY2E3ZTM1MTcxMTcyXkEyXkFqcGc@._V1_.jpg",
     "plot": "A town with a hidden secret experiences strange occurrences that intensify at night. Mysterious forces disrupt everyday routines as residents try to preserve stability and community while attempting to comprehend their surroundings.",
@@ -632,7 +632,7 @@
   {
     "name": "The Mentalist",
     "rating": 8.2,
-    "votes": 235866,
+    "votes": 236042,
     "link": "https://www.imdb.com/title/tt1196946/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTQ5OTgzOTczM15BMl5BanBnXkFtZTcwMDM2OTY4MQ@@._V1_.jpg",
     "plot": "Famous &quot;psychic&quot;, Patrick Jane, outs himself as a fake, and using his heightened observational skills and impeccable knowledge of the human psyche, he works with the police so he can find &quot;Red John&quot;, the madman who killed his family.",
@@ -667,7 +667,7 @@
   {
     "name": "Donggung",
     "rating": 7.6,
-    "votes": 1162,
+    "votes": 1426,
     "link": "https://www.imdb.com/title/tt35051401/",
     "image": "https://m.media-amazon.com/images/M/MV5BNjQ4ODU2YTctYjlhZi00ZGRmLTg4N2QtYWExNjY1NmY5MzZiXkEyXkFqcGc@._V1_.jpg",
     "plot": "A king tasks a ghost-slayer and a woman cursed to hear ghosts with uncovering a sinister presence plaguing the crown prince&apos;s palace, leading them into a dark realm.",
@@ -702,7 +702,7 @@
   {
     "name": "Avatar: The Last Airbender",
     "rating": 7.1,
-    "votes": 90394,
+    "votes": 90487,
     "link": "https://www.imdb.com/title/tt9018736/",
     "image": "https://m.media-amazon.com/images/M/MV5BY2Y5OTM0MDAtOWZkNS00MWIyLWIxMzItYzY3ODljMTY3ODNlXkEyXkFqcGc@._V1_.jpg",
     "plot": "A young boy known as the Avatar must master the four elemental powers to save the world, and fight against an enemy bent on stopping him.",
@@ -737,7 +737,7 @@
   {
     "name": "Breaking Bad",
     "rating": 9.5,
-    "votes": 2645059,
+    "votes": 2645562,
     "link": "https://www.imdb.com/title/tt0903747/",
     "image": "https://m.media-amazon.com/images/M/MV5BOWE4NTc3YmYtNmU2Mi00ZjhkLWE1MTItZmM1M2U1ODU3YjFlXkEyXkFqcGc@._V1_.jpg",
     "plot": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family&apos;s future.",
@@ -772,7 +772,7 @@
   {
     "name": "Elle",
     "rating": 6.9,
-    "votes": 5456,
+    "votes": 5573,
     "link": "https://www.imdb.com/title/tt32020831/",
     "image": "https://m.media-amazon.com/images/M/MV5BMzhkNDM5MTctZmUzMC00M2I0LTliZDAtMzQzMzFhYWMyODcwXkEyXkFqcGc@._V1_.jpg",
     "plot": "Follows Elle Woods&apos; journey through high school, exploring the formative experiences that mold her into the iconic, confident &quot;Legally Blonde&quot; character.",
@@ -806,8 +806,8 @@
   },
   {
     "name": "The Westies",
-    "rating": 7.1,
-    "votes": 684,
+    "rating": 7,
+    "votes": 735,
     "link": "https://www.imdb.com/title/tt31849235/",
     "image": "https://m.media-amazon.com/images/M/MV5BM2FhMGFlOTktZDVkNi00ZTIxLTkzZDctYzM0YTNlOTAyYjJjXkEyXkFqcGc@._V1_.jpg",
     "plot": "In 1980s Hell&apos;s Kitchen, the Westies crime gang eyes profits from the Javitz Center construction. Though vastly outnumbered by Italian mafia, their brutality earns them a share. Generational tensions rise as FBI probes deepen.",
@@ -842,7 +842,7 @@
   {
     "name": "Ted Lasso",
     "rating": 8.7,
-    "votes": 450414,
+    "votes": 450582,
     "link": "https://www.imdb.com/title/tt10986410/",
     "image": "https://m.media-amazon.com/images/M/MV5BZmI3YWVhM2UtNDZjMC00YTIzLWI2NGUtZWIxODZkZjVmYTg1XkEyXkFqcGc@._V1_.jpg",
     "plot": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
@@ -877,7 +877,7 @@
   {
     "name": "The Pitt",
     "rating": 8.9,
-    "votes": 160236,
+    "votes": 160429,
     "link": "https://www.imdb.com/title/tt31938062/",
     "image": "https://m.media-amazon.com/images/M/MV5BMThjMjYxM2YtM2IzZC00NDdmLThiNDYtNzEyNzA0YTRmYTk3XkEyXkFqcGc@._V1_.jpg",
     "plot": "The daily lives of healthcare professionals in a Pittsburgh hospital as they juggle personal crises, workplace politics, and the emotional toll of treating critically ill patients, revealing the resilience required in their noble ...",
@@ -912,7 +912,7 @@
   {
     "name": "Maximum Pleasure Guaranteed",
     "rating": 7.3,
-    "votes": 5887,
+    "votes": 6055,
     "link": "https://www.imdb.com/title/tt35946742/",
     "image": "https://m.media-amazon.com/images/M/MV5BZDA5NjZkM2MtYTFlMC00MGRhLWIwMGMtNTgyYzllYzUyNDY1XkEyXkFqcGc@._V1_.jpg",
     "plot": "A divorced mom gets caught up in a perilous web of blackmail, murder, and youth soccer.",
@@ -947,7 +947,7 @@
   {
     "name": "The Rookie",
     "rating": 8,
-    "votes": 131257,
+    "votes": 131320,
     "link": "https://www.imdb.com/title/tt7587890/",
     "image": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_.jpg",
     "plot": "Starting over isn&apos;t easy, especially for John Nolan who, after a life-altering incident, is pursuing his dream of joining the LAPD. As their oldest rookie, he&apos;s met with skepticism from those who see him as just a walking midlife ...",
@@ -982,7 +982,7 @@
   {
     "name": "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
     "rating": 6.5,
-    "votes": 2592,
+    "votes": 2650,
     "link": "https://www.imdb.com/title/tt37543147/",
     "image": "https://m.media-amazon.com/images/M/MV5BMDY3NzE5MzItODEyMi00YjE4LWJiZGYtN2QxNWRjZDAwY2ZmXkEyXkFqcGc@._V1_.jpg",
     "plot": "Comedy sketches exploring various historical moments, with four different sketches per episode.",
@@ -1017,7 +1017,7 @@
   {
     "name": "Heroes",
     "rating": 7.5,
-    "votes": 261758,
+    "votes": 261836,
     "link": "https://www.imdb.com/title/tt0813715/",
     "image": "https://m.media-amazon.com/images/M/MV5BMjI3ODU0OTQ1MV5BMl5BanBnXkFtZTgwNzI0MTQ2MzE@._V1_.jpg",
     "plot": "Ordinary people discover that they possess extraordinary powers.",
@@ -1052,7 +1052,7 @@
   {
     "name": "Criminal Minds",
     "rating": 8.1,
-    "votes": 241031,
+    "votes": 241058,
     "link": "https://www.imdb.com/title/tt0452046/",
     "image": "https://m.media-amazon.com/images/M/MV5BZmEyNTAyZDEtMTlhNS00ZTJjLWI1OWEtNWMzNzFhMWNjMDY2XkEyXkFqcGc@._V1_.jpg",
     "plot": "The FBI&apos;s Behavioral Analysis Unit in Quantico helps police solve violent serial crimes using profiling. Team members analyze evidence and psychology to catch unknown subjects, but their demanding work affects personal lives.",
@@ -1087,7 +1087,7 @@
   {
     "name": "The Boys",
     "rating": 8.5,
-    "votes": 1009374,
+    "votes": 1009678,
     "link": "https://www.imdb.com/title/tt1190634/",
     "image": "https://m.media-amazon.com/images/M/MV5BNGE4YTljMTctZWYxZi00NDA2LTk4OTItYmEyN2IxOGI3MzY2XkEyXkFqcGc@._V1_.jpg",
     "plot": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
@@ -1121,8 +1121,8 @@
   },
   {
     "name": "Ann Droid",
-    "rating": 7.5,
-    "votes": 635,
+    "rating": 7.6,
+    "votes": 796,
     "link": "https://www.imdb.com/title/tt37788031/",
     "image": "https://m.media-amazon.com/images/M/MV5BMDA4ZTcwY2ItMTViZi00YzkwLTgzZWUtM2YxMThlYjk4YmVlXkEyXkFqcGc@._V1_.jpg",
     "plot": "Ann, an advanced AI, grapples with human emotions while discovering dark secrets within the corporation that created her.",
@@ -1157,17 +1157,17 @@
   {
     "name": "Sugar",
     "rating": 7.4,
-    "votes": 46022,
+    "votes": 46072,
     "link": "https://www.imdb.com/title/tt16418808/",
     "image": "https://m.media-amazon.com/images/M/MV5BNjYyZjQ5MWMtOTE5My00OGZhLTlkMTAtYjEyYWJiNTY5NGY4XkEyXkFqcGc@._V1_.jpg",
     "plot": "Private detective John Sugar investigates the disappearance of Olivia, the beloved granddaughter of Hollywood producer Jonathan Siegel. As Sugar tries to determine what happened to Olivia, he unearths Siegel family secrets, old an...",
     "genres": "Action, Crime, Drama",
     "runtime": 0,
     "certificate": "TV-MA",
-    "keywords": "private investigator, suspense mystery, los angeles california, polyglot, mysterious disappearance",
+    "keywords": "private investigator, suspense mystery, los angeles california, hardboiled mystery, polyglot",
     "countriesOfOrigin": "US",
-    "meterRanking": "32",
-    "meterRankChange": "DOWN 10",
+    "meterRanking": "34",
+    "meterRankChange": "DOWN 2",
     "directors": "",
     "writers": "",
     "stars": "Colin Farrell, Kirby Howell-Baptiste, Amy Ryan",
@@ -1182,17 +1182,17 @@
     "aspectRatio": "",
     "color": "Color",
     "awardWins": 1,
-    "awardNominations": 10,
+    "awardNominations": 11,
     "titleType": "TV Series",
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-14T09:02:32.625920"
+    "last_updated": "2026-07-22T02:44:59.649494"
   },
   {
     "name": "The Dark",
-    "rating": 6.6,
-    "votes": 521,
+    "rating": 6.5,
+    "votes": 579,
     "link": "https://www.imdb.com/title/tt37510653/",
     "image": "https://m.media-amazon.com/images/M/MV5BNjJiYWI4NGItY2EyNS00MWU0LWIzYzUtNWVkMmM2ZmM1NWU4XkEyXkFqcGc@._V1_.jpg",
     "plot": "A detective investigates a mysterious death in the Scottish countryside, suspecting it&apos;s the start of a deadly pattern threatening the peaceful rural community.",
@@ -1227,7 +1227,7 @@
   {
     "name": "Euphoria",
     "rating": 8.1,
-    "votes": 318737,
+    "votes": 318852,
     "link": "https://www.imdb.com/title/tt8772296/",
     "image": "https://m.media-amazon.com/images/M/MV5BYzg5MTVmNjgtMGQ3Zi00YThlLWFjMzgtYzc2NGUyMzE2MWQ1XkEyXkFqcGc@._V1_.jpg",
     "plot": "A dark coming-of-age drama exploring love, addiction, friendship and identity in a world full of temptation and uncertainty.",
@@ -1262,7 +1262,7 @@
   {
     "name": "The Agency",
     "rating": 7.5,
-    "votes": 32439,
+    "votes": 32532,
     "link": "https://www.imdb.com/title/tt26656917/",
     "image": "https://m.media-amazon.com/images/M/MV5BMWYzNDM4MDEtY2Y2My00MDE3LWIyMzktMTAwZTQ5YWFhZjk2XkEyXkFqcGc@._V1_.jpg",
     "plot": "A covert CIA agent is ordered to abandon his undercover life and return to his Station; when the love he left behind reappears, romance reignites.",
@@ -1271,8 +1271,8 @@
     "certificate": "TV-MA",
     "keywords": "remake, agent, political drama, political thriller, spy",
     "countriesOfOrigin": "FR",
-    "meterRanking": "22",
-    "meterRankChange": "DOWN 7",
+    "meterRanking": "37",
+    "meterRankChange": "DOWN 15",
     "directors": "",
     "writers": "",
     "stars": "Michael Fassbender, Jeffrey Wright, Jodie Turner-Smith",
@@ -1292,12 +1292,12 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-14T09:02:32.625920"
+    "last_updated": "2026-07-22T02:44:59.649494"
   },
   {
     "name": "X-Men &apos;97",
     "rating": 8.7,
-    "votes": 55884,
+    "votes": 55948,
     "link": "https://www.imdb.com/title/tt16026746/",
     "image": "https://m.media-amazon.com/images/M/MV5BYmU0MTRjNzgtMjNlZi00YWM2LWExZmItY2RkYjVhZjJmODEyXkEyXkFqcGc@._V1_.jpg",
     "plot": "A band of mutants use their uncanny gifts to protect a world that hates and fears them; they&apos;re challenged like never before, forced to face a dangerous and unexpected new future.",
@@ -1332,7 +1332,7 @@
   {
     "name": "Supernatural",
     "rating": 8.4,
-    "votes": 543508,
+    "votes": 543583,
     "link": "https://www.imdb.com/title/tt0460681/",
     "image": "https://m.media-amazon.com/images/M/MV5BMDFmMGZmMGItNGRjNC00NjVjLWI5ODEtNzhjMTE5MmJhN2FkXkEyXkFqcGc@._V1_.jpg",
     "plot": "Two brothers follow their father&apos;s footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.",
@@ -1367,7 +1367,7 @@
   {
     "name": "The Sopranos",
     "rating": 9.2,
-    "votes": 586937,
+    "votes": 587089,
     "link": "https://www.imdb.com/title/tt0141842/",
     "image": "https://m.media-amazon.com/images/M/MV5BZjYwNWQwOTMtMzYwOS00NTcxLWFhNTYtNGQ4YjdmYTcyNDFkXkEyXkFqcGc@._V1_.jpg",
     "plot": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling.",
@@ -1402,7 +1402,7 @@
   {
     "name": "Yellowstone",
     "rating": 8.6,
-    "votes": 316437,
+    "votes": 316526,
     "link": "https://www.imdb.com/title/tt4236770/",
     "image": "https://m.media-amazon.com/images/M/MV5BZTYxYTdjZjEtNTc0My00NDU2LTkwZmQtNjhhNmJiMzQ3Zjc1XkEyXkFqcGc@._V1_.jpg",
     "plot": "A ranching family in Montana faces off against others encroaching on their land.",
@@ -1437,7 +1437,7 @@
   {
     "name": "Interview with the Vampire",
     "rating": 7.6,
-    "votes": 42348,
+    "votes": 42511,
     "link": "https://www.imdb.com/title/tt3960394/",
     "image": "https://m.media-amazon.com/images/M/MV5BYmE0MjUzY2YtYTU3Yi00ZGUzLWE3MmQtM2M2Y2QyYWZmYjkwXkEyXkFqcGc@._V1_.jpg",
     "plot": "A vampire tells his epic story of love, blood, and the perils of immortality to a journalist.",
@@ -1446,8 +1446,8 @@
     "certificate": "TV-MA",
     "keywords": "gothic, based on the works of anne rice, new orleans louisiana, child vampire, homoeroticism",
     "countriesOfOrigin": "US",
-    "meterRanking": "34",
-    "meterRankChange": "UP 6",
+    "meterRanking": "42",
+    "meterRankChange": "DOWN 8",
     "directors": "",
     "writers": "",
     "stars": "Jacob Anderson, Sam Reid, Eric Bogosian",
@@ -1467,12 +1467,12 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-14T09:02:32.625920"
+    "last_updated": "2026-07-22T02:44:59.649494"
   },
   {
     "name": "The Boroughs",
     "rating": 7.3,
-    "votes": 34343,
+    "votes": 34493,
     "link": "https://www.imdb.com/title/tt27557289/",
     "image": "https://m.media-amazon.com/images/M/MV5BZjc1Mjg0YjItN2M2Zi00ZDlhLWJhZDYtYjI2NmFmOGQ1ZmMxXkEyXkFqcGc@._V1_.jpg",
     "plot": "In a seemingly picturesque retirement community, a group of unlikely heroes must band together to stop an otherworldly threat from stealing the one thing they don&apos;t have - time.",
@@ -1507,7 +1507,7 @@
   {
     "name": "A Knight of the Seven Kingdoms",
     "rating": 8.6,
-    "votes": 267027,
+    "votes": 267460,
     "link": "https://www.imdb.com/title/tt27497448/",
     "image": "https://m.media-amazon.com/images/M/MV5BYzg4M2U3YWMtMWY4MS00MzFkLTk2ZWQtOThiOGYxZDEyMGQ2XkEyXkFqcGc@._V1_.jpg",
     "plot": "A century before the events of &quot;Game of Thrones,&quot; Ser Duncan the Tall, and his squire, Egg, wander through Westeros while the Targaryen dynasty rule the Iron Throne. Great destinies and enemies await the incomparable friends.",
@@ -1542,7 +1542,7 @@
   {
     "name": "The Walking Dead",
     "rating": 8.1,
-    "votes": 1204398,
+    "votes": 1204562,
     "link": "https://www.imdb.com/title/tt1520211/",
     "image": "https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_.jpg",
     "plot": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
@@ -1612,7 +1612,7 @@
   {
     "name": "Little House on the Prairie",
     "rating": 7.6,
-    "votes": 30812,
+    "votes": 30839,
     "link": "https://www.imdb.com/title/tt0071007/",
     "image": "https://m.media-amazon.com/images/M/MV5BODZjMGRkZmMtYzRhMC00NTMyLTg4MjAtNGIxZTIzYjY0MjNmXkEyXkFqcGc@._V1_.jpg",
     "plot": "The life and adventures of the Ingalls family in the nineteenth century American Midwest.",
@@ -1647,7 +1647,7 @@
   {
     "name": "Shingeki no kyojin",
     "rating": 9.1,
-    "votes": 731432,
+    "votes": 731692,
     "link": "https://www.imdb.com/title/tt2560140/",
     "image": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_.jpg",
     "plot": "In a world where humanity shelters behind towering walls from man-eating Titans, a determined teen joins the elite Survey Corps to fight the giants and uncover the secrets of their origin.",
@@ -1682,7 +1682,7 @@
   {
     "name": "Dark Winds",
     "rating": 7.7,
-    "votes": 34314,
+    "votes": 34353,
     "link": "https://www.imdb.com/title/tt15017118/",
     "image": "https://m.media-amazon.com/images/M/MV5BNWUxYzAxZmQtMDcyMC00ZjhmLTljZWItZGI5MWNkM2ViYjE1XkEyXkFqcGc@._V1_.jpg",
     "plot": "Follows Leaphorn and Chee, two Navajo police officers in the 1970s Southwest that are forced to challenge their own spiritual beliefs when they search for clues in a double murder case.",
@@ -1717,7 +1717,7 @@
   {
     "name": "Stranger Things",
     "rating": 8.6,
-    "votes": 1718508,
+    "votes": 1718844,
     "link": "https://www.imdb.com/title/tt4574334/",
     "image": "https://m.media-amazon.com/images/M/MV5BMjEzMDAxOTUyMV5BMl5BanBnXkFtZTgwNzAxMzYzOTE@._V1_.jpg",
     "plot": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
@@ -1752,7 +1752,7 @@
   {
     "name": "The Office",
     "rating": 9,
-    "votes": 840413,
+    "votes": 840546,
     "link": "https://www.imdb.com/title/tt0386676/",
     "image": "https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_.jpg",
     "plot": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
@@ -1787,7 +1787,7 @@
   {
     "name": "Better Call Saul",
     "rating": 9,
-    "votes": 848846,
+    "votes": 849086,
     "link": "https://www.imdb.com/title/tt3032476/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTAxOTQ0MjUzMzJeQTJeQWpwZ15BbWU4MDY0NTAxNzMx._V1_.jpg",
     "plot": "Albuquerque lawyer Jimmy McGill scrapes for clients and respect, but every win drags him closer to shady deals, dangerous players, and the alter ego Saul Goodman.",
@@ -1822,7 +1822,7 @@
   {
     "name": "Landman",
     "rating": 8.2,
-    "votes": 111843,
+    "votes": 111927,
     "link": "https://www.imdb.com/title/tt14186672/",
     "image": "https://m.media-amazon.com/images/M/MV5BNTQ1MzI1ZWYtNWMxMC00NmU4LTlmMjItZjY1NWMyYTdjMjM4XkEyXkFqcGc@._V1_.jpg",
     "plot": "A modern-day tale of fortune seeking in the world of West Texas oil rigs.",
@@ -1857,7 +1857,7 @@
   {
     "name": "Law &amp; Order: Special Victims Unit",
     "rating": 8.1,
-    "votes": 146010,
+    "votes": 146025,
     "link": "https://www.imdb.com/title/tt0203259/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTU0NGIwMGQtNzk1OC00MzcxLTk0NDYtYWYyMjA3Mzg0ZWFkXkEyXkFqcGc@._V1_.jpg",
     "plot": "Follows the NYPD&apos;s specially trained squad of detectives who investigate sex crimes, including rape, paedophilia, child abuse, human trafficking and domestic violence.",
@@ -1892,7 +1892,7 @@
   {
     "name": "Spider-Noir",
     "rating": 7.8,
-    "votes": 57840,
+    "votes": 58108,
     "link": "https://www.imdb.com/title/tt30460310/",
     "image": "https://m.media-amazon.com/images/M/MV5BYjU3NjEwNTItMzc1Mi00Y2QyLTljNDItOTQ4YjU4NjZjN2EyXkEyXkFqcGc@._V1_.jpg",
     "plot": "Ben Reilly, a seasoned, down-on-his-luck private investigator in 1930s New York, is forced to grapple with his past life, following a deeply personal tragedy, as the city&apos;s one and only superhero.",
@@ -1927,7 +1927,7 @@
   {
     "name": "Reacher",
     "rating": 8,
-    "votes": 297816,
+    "votes": 297883,
     "link": "https://www.imdb.com/title/tt9288030/",
     "image": "https://m.media-amazon.com/images/M/MV5BMzdjYWZlMDQtYzdhNi00NmRlLTg2NzUtMTI3MWFhZDliNjBiXkEyXkFqcGc@._V1_.jpg",
     "plot": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child.",
@@ -1962,7 +1962,7 @@
   {
     "name": "MobLand",
     "rating": 8.3,
-    "votes": 118346,
+    "votes": 118454,
     "link": "https://www.imdb.com/title/tt31510819/",
     "image": "https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@._V1_.jpg",
     "plot": "Power is up for grabs as two warring crime families clash in a battle that threatens to topple empires. In the crossfire stands Harry Da Souza, a street-smart &apos;fixer&apos; who knows too well where loyalties lie when opposing forces col...",
@@ -1997,7 +1997,7 @@
   {
     "name": "The Wire",
     "rating": 9.3,
-    "votes": 434642,
+    "votes": 434725,
     "link": "https://www.imdb.com/title/tt0306414/",
     "image": "https://m.media-amazon.com/images/M/MV5BYjIxZTMwZmUtOTUzYS00YmU2LWJhNDAtNzA2NDg0NDA0MjVkXkEyXkFqcGc@._V1_.jpg",
     "plot": "The Baltimore drug scene, as seen through the eyes of drug dealers and law enforcement.",
@@ -2032,7 +2032,7 @@
   {
     "name": "Person of Interest",
     "rating": 8.5,
-    "votes": 212263,
+    "votes": 212320,
     "link": "https://www.imdb.com/title/tt1839578/",
     "image": "https://m.media-amazon.com/images/M/MV5BOTcxNDJiMTUtN2ZhZS00OGE1LWJmZmYtN2VhYThiZTBhYWM1XkEyXkFqcGc@._V1_.jpg",
     "plot": "An off-the-grid and presumed-dead former CIA agent, John Reese, is hired by a mysterious tech billionaire software genius, Harold Finch, to prevent violent crimes before they happen in New York City via an advanced surveillance so...",
@@ -2067,7 +2067,7 @@
   {
     "name": "Severance",
     "rating": 8.6,
-    "votes": 397192,
+    "votes": 397323,
     "link": "https://www.imdb.com/title/tt11280740/",
     "image": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
     "plot": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
@@ -2102,7 +2102,7 @@
   {
     "name": "The White Lotus",
     "rating": 8,
-    "votes": 329258,
+    "votes": 329354,
     "link": "https://www.imdb.com/title/tt13406094/",
     "image": "https://m.media-amazon.com/images/M/MV5BZmM1MGM0MDQtZTAzNy00ZGJkLWI4MDUtNjBmMzdhYjhlM2QwXkEyXkFqcGc@._V1_.jpg",
     "plot": "The exploits of various guests and employees of a luxury resort over the span of a week.",
@@ -2137,7 +2137,7 @@
   {
     "name": "Dexter",
     "rating": 8.6,
-    "votes": 944474,
+    "votes": 944666,
     "link": "https://www.imdb.com/title/tt0773262/",
     "image": "https://m.media-amazon.com/images/M/MV5BNTE5ZGI2N2UtYmFiMi00ZGIxLWI1ZTMtYWJkZDYxNDZiOTQwXkEyXkFqcGc@._V1_.jpg",
     "plot": "He&apos;s smart. He&apos;s lovable. He&apos;s Dexter Morgan, America&apos;s favorite serial killer, who spends his days solving crimes and his nights committing them.",
@@ -2172,7 +2172,7 @@
   {
     "name": "Beef",
     "rating": 8,
-    "votes": 176705,
+    "votes": 176771,
     "link": "https://www.imdb.com/title/tt14403178/",
     "image": "https://m.media-amazon.com/images/M/MV5BMGNlNDkyYzItNTg5Yy00NGFiLWJhYTctODE5NjNkYjk4ZDUwXkEyXkFqcGc@._V1_.jpg",
     "plot": "Minor conflicts spiral into consuming feuds between individuals, exposing pride, resentment, and hidden pain.",
@@ -2207,7 +2207,7 @@
   {
     "name": "Legends",
     "rating": 7.8,
-    "votes": 23722,
+    "votes": 23839,
     "link": "https://www.imdb.com/title/tt33265765/",
     "image": "https://m.media-amazon.com/images/M/MV5BYTI2NzI3OTgtNjJmNS00Yjk3LTliMTMtZDA1MWM4MDA0N2QzXkEyXkFqcGc@._V1_.jpg",
     "plot": "Customs agents go undercover to infiltrate Britain&apos;s most dangerous drug gangs, following a thrilling criminal investigation based on extensive research and interviews with those involved in the top-secret operation.",
@@ -2242,7 +2242,7 @@
   {
     "name": "Your Friends &amp; Neighbors",
     "rating": 7.7,
-    "votes": 63048,
+    "votes": 63143,
     "link": "https://www.imdb.com/title/tt30459041/",
     "image": "https://m.media-amazon.com/images/M/MV5BMjM0ZWFhMzEtOWVlYS00Y2VkLTk1MzEtZWQwM2E1YjFkNjlmXkEyXkFqcGc@._V1_.jpg",
     "plot": "A hedge fund manager resorts to burglary after losing his job, targeting wealthy neighbors to maintain his family&apos;s lifestyle.",
@@ -2277,7 +2277,7 @@
   {
     "name": "True Detective",
     "rating": 8.8,
-    "votes": 761737,
+    "votes": 761852,
     "link": "https://www.imdb.com/title/tt2356777/",
     "image": "https://m.media-amazon.com/images/M/MV5BYjgwYzA1NWMtNDYyZi00ZGQyLWI5NTktMDYwZjE2OTIwZWEwXkEyXkFqcGc@._V1_.jpg",
     "plot": "Anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.",
@@ -2312,7 +2312,7 @@
   {
     "name": "ER",
     "rating": 7.9,
-    "votes": 79442,
+    "votes": 79464,
     "link": "https://www.imdb.com/title/tt0108757/",
     "image": "https://m.media-amazon.com/images/M/MV5BMzM5NjQ4M2QtNWQyMy00OWUxLWIyZjktNmY2ZjMyZjA2NWE0XkEyXkFqcGc@._V1_.jpg",
     "plot": "The doctors who work in the ER at the County General Hospital in Chicago grapple with ups and downs in their personal and professional lives while trying to give apt medical care to their patients.",
@@ -2347,7 +2347,7 @@
   {
     "name": "The Last Ship",
     "rating": 7.4,
-    "votes": 69903,
+    "votes": 69931,
     "link": "https://www.imdb.com/title/tt2402207/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTQ5MTM5Mjc5NV5BMl5BanBnXkFtZTgwMTk2MzExOTE@._V1_.jpg",
     "plot": "The crew of a naval destroyer is forced to confront the reality of a new existence when a pandemic kills off most of the earth&apos;s population.",
@@ -2382,7 +2382,7 @@
   {
     "name": "Friends",
     "rating": 8.8,
-    "votes": 1199049,
+    "votes": 1199184,
     "link": "https://www.imdb.com/title/tt0108778/",
     "image": "https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_.jpg",
     "plot": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
@@ -2417,7 +2417,7 @@
   {
     "name": "Lioness",
     "rating": 7.8,
-    "votes": 88850,
+    "votes": 88890,
     "link": "https://www.imdb.com/title/tt13111078/",
     "image": "https://m.media-amazon.com/images/M/MV5BOWJmYTFkYTctNWI3ZS00YjhkLTkxMjUtYWM0ZTNiMzc2NTA5XkEyXkFqcGc@._V1_.jpg",
     "plot": "CIA operative Joe McNamara and her team attempt to balance their personal and professional lives as the tip of the spear in the agency&apos;s war on terror.",
@@ -2452,7 +2452,7 @@
   {
     "name": "Paradise",
     "rating": 7.9,
-    "votes": 85123,
+    "votes": 85189,
     "link": "https://www.imdb.com/title/tt27444205/",
     "image": "https://m.media-amazon.com/images/M/MV5BYTNmMjEwZGYtZWJjNy00MjI2LWI3YmUtNTY3NjVkMmU4MDM0XkEyXkFqcGc@._V1_.jpg",
     "plot": "A Secret Service agent investigates the murder of a former president in a seemingly peaceful community.",
@@ -2487,7 +2487,7 @@
   {
     "name": "The Big Bang Theory",
     "rating": 8.1,
-    "votes": 940947,
+    "votes": 941014,
     "link": "https://www.imdb.com/title/tt0898266/",
     "image": "https://m.media-amazon.com/images/M/MV5BZjgzY2QyNzItNDhhYi00ZWIwLWFjN2UtZDJkN2MxYWNjMmJjXkEyXkFqcGc@._V1_.jpg",
     "plot": "The lives of four socially awkward scientists take a wild turn when a beautiful and free-spirited girl moves in next door.",
@@ -2522,7 +2522,7 @@
   {
     "name": "Shrinking",
     "rating": 8.2,
-    "votes": 127396,
+    "votes": 127459,
     "link": "https://www.imdb.com/title/tt15677150/",
     "image": "https://m.media-amazon.com/images/M/MV5BYmU3Yjg0Y2UtN2E5Yy00NzYyLThlNzQtOTI2YWE2OWJhYTUyXkEyXkFqcGc@._V1_.jpg",
     "plot": "A grieving therapist starts to tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge changes to people&apos;s lives - including his own.",
@@ -2557,7 +2557,7 @@
   {
     "name": "Grey&apos;s Anatomy",
     "rating": 7.6,
-    "votes": 375782,
+    "votes": 375822,
     "link": "https://www.imdb.com/title/tt0413573/",
     "image": "https://m.media-amazon.com/images/M/MV5BYTVjNWVhYTctMGJkMS00NWFjLWE2N2QtNmQ1Y2FhZDFkNzUwXkEyXkFqcGc@._V1_.jpg",
     "plot": "A drama centered on the personal and professional lives of five surgical interns and their supervisors.",
@@ -2592,7 +2592,7 @@
   {
     "name": "Star City",
     "rating": 7.5,
-    "votes": 4855,
+    "votes": 4937,
     "link": "https://www.imdb.com/title/tt32140872/",
     "image": "https://m.media-amazon.com/images/M/MV5BYTA0ZmE5ODQtNDYyZS00NTIzLWEzZTEtZDAwYjEzZmJkYjI2XkEyXkFqcGc@._V1_.jpg",
     "plot": "Soviet cosmonauts, engineers, and intelligence officers risk everything in an ambitious space program aiming to be the first to reach the moon.",
@@ -2627,7 +2627,7 @@
   {
     "name": "Black Mirror",
     "rating": 8.7,
-    "votes": 742776,
+    "votes": 742861,
     "link": "https://www.imdb.com/title/tt2085059/",
     "image": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_.jpg",
     "plot": "Featuring stand-alone dramas -- sharp, suspenseful, satirical tales that explore techno-paranoia -- &quot;Black Mirror&quot; is a contemporary reworking of &quot;The Twilight Zone&quot; with stories that tap into the collective unease about the moder...",
@@ -2662,7 +2662,7 @@
   {
     "name": "For All Mankind",
     "rating": 8.1,
-    "votes": 91477,
+    "votes": 91509,
     "link": "https://www.imdb.com/title/tt7772588/",
     "image": "https://m.media-amazon.com/images/M/MV5BZmI5OTNmYWQtNjRhNy00MWYxLWJjMzAtMmRlNDU1ZjBhMzhlXkEyXkFqcGc@._V1_.jpg",
     "plot": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
@@ -2697,7 +2697,7 @@
   {
     "name": "I, Jack Wright",
     "rating": 7.1,
-    "votes": 3688,
+    "votes": 3718,
     "link": "https://www.imdb.com/title/tt31259038/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzAxZGY1NWItZGMzMS00M2I4LWEwM2QtZGM5MDhjNDQwMzRhXkEyXkFqcGc@._V1_.jpg",
     "plot": "When Jack&apos;s will reveals his fortune largely excluded his third wife and sons, detectives Morgan and Jones suspect murder. The Wright family feud intensifies as all become suspects.",
@@ -2732,7 +2732,7 @@
   {
     "name": "One Piece: Wan p\u00eesu",
     "rating": 9,
-    "votes": 359722,
+    "votes": 359823,
     "link": "https://www.imdb.com/title/tt0388629/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_.jpg",
     "plot": "Monkey D. Luffy, a pirate with rubber powers, forms the Straw Hat crew and sails the Grand Line, battling rivals and the World Government on a quest for the legendary treasure One Piece and the title of Pirate King.",
@@ -2767,7 +2767,7 @@
   {
     "name": "Slow Horses",
     "rating": 8.3,
-    "votes": 150536,
+    "votes": 150577,
     "link": "https://www.imdb.com/title/tt5875444/",
     "image": "https://m.media-amazon.com/images/M/MV5BY2NkNTBiYWUtMGFiZS00MGI4LWE3YjMtZTU3NzhhZmEyYzlkXkEyXkFqcGc@._V1_.jpg",
     "plot": "A dysfunctional team of MI5 agents navigate the espionage world&apos;s smoke and mirrors to defend the UK from sinister forces.",
@@ -2776,8 +2776,8 @@
     "certificate": "TV-MA",
     "keywords": "espionage, united kingdom, security service, intelligence operative, spook",
     "countriesOfOrigin": "GB",
-    "meterRanking": "77",
-    "meterRankChange": "UP 13",
+    "meterRanking": "80",
+    "meterRankChange": "DOWN 3",
     "directors": "",
     "writers": "",
     "stars": "Gary Oldman, Jack Lowden, Kristin Scott Thomas",
@@ -2797,12 +2797,12 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-14T09:02:32.625920"
+    "last_updated": "2026-07-22T02:44:59.649494"
   },
   {
     "name": "Lost",
     "rating": 8.3,
-    "votes": 676955,
+    "votes": 677028,
     "link": "https://www.imdb.com/title/tt0411008/",
     "image": "https://m.media-amazon.com/images/M/MV5BZmZhY2ViYzYtMTQ0NS00NDcyLWIxZTYtMGUyODE0NDA0NmNkXkEyXkFqcGc@._V1_.jpg",
     "plot": "The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.",
@@ -2837,7 +2837,7 @@
   {
     "name": "Pluribus",
     "rating": 7.9,
-    "votes": 164682,
+    "votes": 164866,
     "link": "https://www.imdb.com/title/tt22202452/",
     "image": "https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1_.jpg",
     "plot": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what&apos;s really going on - and save humanity from its artificial bliss.",
@@ -2846,8 +2846,8 @@
     "certificate": "TV-MA",
     "keywords": "female protagonist, lesbian character, apple tv, dark comedy, psychological drama",
     "countriesOfOrigin": "US",
-    "meterRanking": "60",
-    "meterRankChange": "UP 29",
+    "meterRanking": "82",
+    "meterRankChange": "DOWN 22",
     "directors": "",
     "writers": "",
     "stars": "Rhea Seehorn, Karolina Wydra, Carlos-Manuel Vesga",
@@ -2862,17 +2862,17 @@
     "aspectRatio": "2.39 : 1",
     "color": "Color",
     "awardWins": 12,
-    "awardNominations": 64,
+    "awardNominations": 68,
     "titleType": "TV Series",
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-14T09:02:32.625920"
+    "last_updated": "2026-07-22T02:44:59.649494"
   },
   {
     "name": "Seeking Persephone",
     "rating": 7.6,
-    "votes": 3828,
+    "votes": 3865,
     "link": "https://www.imdb.com/title/tt29666911/",
     "image": "https://m.media-amazon.com/images/M/MV5BNDQ3ZmFkZjctNGUzMS00MjU4LWI2OWQtNjJkMTZiNDdhZDkxXkEyXkFqcGc@._V1_.jpg",
     "plot": "Impoverished Persephone marries reclusive Duke, hoping his wealth rescues her family. She persists in connecting with the man beneath his scarred psyche and imposing estate. Grave peril forces him to risk vulnerability to protect ...",
@@ -2881,8 +2881,8 @@
     "certificate": "",
     "keywords": "tv mini series, napoleonic wars, northumberland, recluse, dowry",
     "countriesOfOrigin": "US",
-    "meterRanking": "53",
-    "meterRankChange": "DOWN 18",
+    "meterRanking": "83",
+    "meterRankChange": "DOWN 30",
     "directors": "",
     "writers": "",
     "stars": "Ryann Bailey, Jake Stormoen, Toby-Alexander Smith",
@@ -2902,12 +2902,12 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-14T09:02:32.625920"
+    "last_updated": "2026-07-22T02:44:59.649494"
   },
   {
     "name": "Succession",
     "rating": 8.8,
-    "votes": 361531,
+    "votes": 361630,
     "link": "https://www.imdb.com/title/tt7660850/",
     "image": "https://m.media-amazon.com/images/M/MV5BYTY4YTVkY2QtMjRmOS00YzliLWIxOWQtMTdkOTVkN2UzODNmXkEyXkFqcGc@._V1_.jpg",
     "plot": "The Roy family is known for controlling the biggest media and entertainment company in the world. However, their world changes when their father steps down from the company.",
@@ -2942,7 +2942,7 @@
   {
     "name": "Hacks",
     "rating": 8.2,
-    "votes": 67598,
+    "votes": 67639,
     "link": "https://www.imdb.com/title/tt11815682/",
     "image": "https://m.media-amazon.com/images/M/MV5BMjE0MmM5YzktNGY0NS00ZmQ0LWI1YjEtZjY2NDA4ZmZiNGQ2XkEyXkFqcGc@._V1_.jpg",
     "plot": "Explores a dark mentorship that forms between Deborah Vance, a legendary Las Vegas comedian, and an entitled, outcast 25-year-old.",
@@ -2977,7 +2977,7 @@
   {
     "name": "The Madison",
     "rating": 7.8,
-    "votes": 21810,
+    "votes": 21856,
     "link": "https://www.imdb.com/title/tt33204276/",
     "image": "https://m.media-amazon.com/images/M/MV5BZGFiODdjY2UtNzAxZC00Mjc3LWJiZTQtYzQ2ZTM3ZWMzNjk0XkEyXkFqcGc@._V1_.jpg",
     "plot": "A New York family&apos;s life unravels after a tragedy; they process their grief while vacationing in rural Montana, where they explore human connection amid their profound sorrow.",
@@ -3012,7 +3012,7 @@
   {
     "name": "Peaky Blinders",
     "rating": 8.7,
-    "votes": 784121,
+    "votes": 784257,
     "link": "https://www.imdb.com/title/tt2442560/",
     "image": "https://m.media-amazon.com/images/M/MV5BOGM0NGY3ZmItOGE2ZC00OWIxLTk0N2EtZWY4Yzg3ZDlhNGI3XkEyXkFqcGc@._V1_.jpg",
     "plot": "A gangster family epic set in 1919 Birmingham, England; centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
@@ -3047,7 +3047,7 @@
   {
     "name": "Heartstopper",
     "rating": 8.5,
-    "votes": 94323,
+    "votes": 94366,
     "link": "https://www.imdb.com/title/tt10638036/",
     "image": "https://m.media-amazon.com/images/M/MV5BZjUxNjc3YjYtNzg2Yy00OWEwLTljOGItNmE4MzgwMzQzNGRmXkEyXkFqcGc@._V1_.jpg",
     "plot": "Charlie, a high-strung, openly gay overthinker, and Nick, a cheerful, soft-hearted rugby player, one day are made to sit together in class. Their friendship becomes something more for Charlie, but he does not believe he has a chance.",
@@ -3082,7 +3082,7 @@
   {
     "name": "The Four Seasons",
     "rating": 7.2,
-    "votes": 44359,
+    "votes": 44400,
     "link": "https://www.imdb.com/title/tt30826447/",
     "image": "https://m.media-amazon.com/images/M/MV5BY2ZlNDBmOTctM2RhMS00NmU4LTg4NWQtZTA2ODdmMDNlZDg2XkEyXkFqcGc@._V1_.jpg",
     "plot": "Three suburban couples vacation together each season, but tensions arise when one couple splits up and the husband brings a much younger woman on subsequent trips.",
@@ -3117,7 +3117,7 @@
   {
     "name": "Chamgyoyuk",
     "rating": 8.5,
-    "votes": 15255,
+    "votes": 15385,
     "link": "https://www.imdb.com/title/tt34809853/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzFjNmFjNzgtYmM0ZS00ODZmLWJiNTktOWNiYWZiMTE5MWRiXkEyXkFqcGc@._V1_.jpg",
     "plot": "The collapse of teachers&apos; Authority, the establishment of the Teachers&apos; Authority Protection Bureau under the Ministry of Education, and the dispatch of supervisors to problem schools to punish students and parents who cross the l...",
@@ -3126,8 +3126,8 @@
     "certificate": "TV-MA",
     "keywords": "school, teacher, student, former soldier, inspector",
     "countriesOfOrigin": "KR",
-    "meterRanking": "59",
-    "meterRankChange": "DOWN 21",
+    "meterRanking": "90",
+    "meterRankChange": "DOWN 31",
     "directors": "",
     "writers": "",
     "stars": "Kim Mu-yeol, Lee Sung-min, Jin Ki-joo",
@@ -3147,12 +3147,12 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-14T09:02:32.625920"
+    "last_updated": "2026-07-22T02:44:59.649494"
   },
   {
     "name": "Andor",
     "rating": 8.6,
-    "votes": 281622,
+    "votes": 281707,
     "link": "https://www.imdb.com/title/tt9253284/",
     "image": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_.jpg",
     "plot": "In an era filled with danger, deception, and intrigue, Cassian Andor embarks on a path that is destined to turn him into a Rebel hero.",
@@ -3187,7 +3187,7 @@
   {
     "name": "Suits",
     "rating": 8.4,
-    "votes": 544326,
+    "votes": 544420,
     "link": "https://www.imdb.com/title/tt1632701/",
     "image": "https://m.media-amazon.com/images/M/MV5BYmE4MmNjZjUtNTEyNy00NTZiLWE4NTktYjM2NjBhYzQ1N2IzXkEyXkFqcGc@._V1_.jpg",
     "plot": "On the run from a drug deal gone bad, brilliant college dropout Mike Ross finds himself working with Harvey Specter, one of New York City&apos;s best lawyers.",
@@ -3196,8 +3196,8 @@
     "certificate": "TV-14",
     "keywords": "lawyer, new york city, photographic memory, paralegal, law firm",
     "countriesOfOrigin": "US",
-    "meterRanking": "96",
-    "meterRankChange": "DOWN 11",
+    "meterRanking": "92",
+    "meterRankChange": "UP 4",
     "directors": "",
     "writers": "",
     "stars": "Gabriel Macht, Patrick J. Adams, Meghan Markle",
@@ -3217,12 +3217,12 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-14T09:02:32.625920"
+    "last_updated": "2026-07-22T02:44:59.649494"
   },
   {
     "name": "NCIS",
     "rating": 7.8,
-    "votes": 177331,
+    "votes": 177338,
     "link": "https://www.imdb.com/title/tt0364845/",
     "image": "https://m.media-amazon.com/images/M/MV5BZGExNmI3NDMtMjYxYS00Y2ZmLTlkNmItMGNkNTQ1MzA1ZGM1XkEyXkFqcGc@._V1_.jpg",
     "plot": "Naval Criminal Investigative Service agents investigate criminal cases connected to Navy and Marine Corps personnel.",
@@ -3257,7 +3257,7 @@
   {
     "name": "Vikings",
     "rating": 8.5,
-    "votes": 645433,
+    "votes": 645519,
     "link": "https://www.imdb.com/title/tt2306299/",
     "image": "https://m.media-amazon.com/images/M/MV5BOTFmZmExYTEtYmE0Mi00MzRmLWE4ZDYtOThiNzNlOTIyODljXkEyXkFqcGc@._V1_.jpg",
     "plot": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
@@ -3292,7 +3292,7 @@
   {
     "name": "The Beast in Me",
     "rating": 7.4,
-    "votes": 73171,
+    "votes": 73300,
     "link": "https://www.imdb.com/title/tt31974367/",
     "image": "https://m.media-amazon.com/images/M/MV5BZDI5MzdkMzktMjcxYi00OTcyLTljMWEtYzg2NTA5OTcwYTJkXkEyXkFqcGc@._V1_.jpg",
     "plot": "Author Aggie Wiggs, grieving the loss of her son, finds new purpose unraveling the mystery behind neighbor Nile Jarvis&apos; vanished wife and his suspicious dealings.",
@@ -3327,7 +3327,7 @@
   {
     "name": "Re:Zero kara Hajimeru Isekai Seikatsu",
     "rating": 8.3,
-    "votes": 75341,
+    "votes": 75379,
     "link": "https://www.imdb.com/title/tt5607616/",
     "image": "https://m.media-amazon.com/images/M/MV5BZWI4OTVkNDgtOTBmMC00M2I3LTk3NTctOWY3NmRkODIxMDViXkEyXkFqcGc@._V1_.jpg",
     "plot": "After being suddenly transported to another world, Subaru Natsuki and his new female partner are brutally murdered. However, Subaru awakens to a familiar scene, meeting the same girl again. The day begins to mysteriously repeat it...",
@@ -3362,7 +3362,7 @@
   {
     "name": "Avatar: The Last Airbender",
     "rating": 9.3,
-    "votes": 448325,
+    "votes": 448440,
     "link": "https://www.imdb.com/title/tt0417299/",
     "image": "https://m.media-amazon.com/images/M/MV5BMDMwMThjYWYtY2Q2OS00OGM2LTlkODQtNDJlZTZmMjAyYmFhXkEyXkFqcGc@._V1_.jpg",
     "plot": "After a century frozen in ice, young Avatar Aang journeys with friends to master the four elements and bring balance to a world at war with the Fire Nation.",
@@ -3397,7 +3397,7 @@
   {
     "name": "Bones",
     "rating": 7.8,
-    "votes": 191597,
+    "votes": 191624,
     "link": "https://www.imdb.com/title/tt0460627/",
     "image": "https://m.media-amazon.com/images/M/MV5BMjA3ODMxMzM5NF5BMl5BanBnXkFtZTgwMDM1NjU0OTE@._V1_.jpg",
     "plot": "F.B.I. Special Agent Seeley Booth teams up with the Jeffersonian&apos;s top anthropologist, Dr. Temperance Brennan, to investigate cases where all that&apos;s left of the victims are their bones.",
@@ -3432,7 +3432,7 @@
   {
     "name": "Every Year After",
     "rating": 6.3,
-    "votes": 6546,
+    "votes": 6600,
     "link": "https://www.imdb.com/title/tt33055254/",
     "image": "https://m.media-amazon.com/images/M/MV5BODJmYjdlMGEtZTVhZS00MDAyLTkxMDMtZWJmMDFhMmQ2ODgyXkEyXkFqcGc@._V1_.jpg",
     "plot": "Two lifelong friends explore the enduring question: what if your first love was destined to be your soulmate? A sweeping romantic tale about love&apos;s timeless possibilities.",
@@ -3441,8 +3441,8 @@
     "certificate": "TV-MA",
     "keywords": "",
     "countriesOfOrigin": "US",
-    "meterRanking": "69",
-    "meterRankChange": "DOWN 21",
+    "meterRanking": "99",
+    "meterRankChange": "DOWN 30",
     "directors": "",
     "writers": "",
     "stars": "Sadie Soverall, Matt Cornett, Michael Bradway",
@@ -3462,12 +3462,12 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-07-14T09:02:32.625920"
+    "last_updated": "2026-07-22T02:44:59.649494"
   },
   {
     "name": "Midsomer Murders",
     "rating": 7.9,
-    "votes": 44584,
+    "votes": 44589,
     "link": "https://www.imdb.com/title/tt0118401/",
     "image": "https://m.media-amazon.com/images/M/MV5BY2U5MzA2MjctMTIzMS00ZjYxLTljMmMtNDkzZjY4YTQ0MTJiXkEyXkFqcGc@._V1_.jpg",
     "plot": "A veteran Detective Chief Inspector and his young Sergeant investigate murders around the regional community of Midsomer County.",
