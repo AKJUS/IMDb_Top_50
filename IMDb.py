@@ -74,6 +74,24 @@ def get_driver():
     return driver
 
 
+def _wait_for_soup(driver, url: str, finder, max_wait: int = 30, retries: int = 2):
+    """
+    Load url and poll the rendered page until finder(soup) finds the expected
+    data script tag, retrying full reloads if IMDb serves a bot-check
+    interstitial instead of the real page. Returns None if it never shows up.
+    """
+    for attempt in range(1, retries + 1):
+        driver.get(url)
+        deadline = time.time() + max_wait
+        while time.time() < deadline:
+            soup = BeautifulSoup(driver.page_source, "html.parser")
+            if finder(soup):
+                return soup
+            time.sleep(1)
+        print(f"    Attempt {attempt}/{retries}: {url} not ready after {max_wait}s, retrying...")
+    return None
+
+
 def enrich_title_data(driver, url: str) -> dict:
     """
     Visit an individual IMDb title page and extract additional fields
@@ -364,10 +382,13 @@ def fetch_popular_movies(existing: list[dict] = None) -> list[dict]:
     movie_data = []
     driver = get_driver()
     try:
-        driver.get(IMDB_POPULAR_MOVIES_URL)
-        time.sleep(5)
-        page_source = driver.page_source
-        soup = BeautifulSoup(page_source, "html.parser")
+        soup = _wait_for_soup(
+            driver, IMDB_POPULAR_MOVIES_URL,
+            lambda s: s.find("script", type="application/ld+json"),
+        )
+        if soup is None:
+            print(f"    Could not load {IMDB_POPULAR_MOVIES_URL} (bot-check or blocked); keeping existing data.")
+            return existing or []
 
         json_data = json.loads(soup.find("script", type="application/ld+json").text)
         for movie in json_data["itemListElement"]:
@@ -437,10 +458,13 @@ def fetch_top_50_movies(existing: list[dict] = None) -> list[dict]:
     movie_data = []
     driver = get_driver()
     try:
-        driver.get(IMDB_MOVIES_SEARCH_URL)
-        time.sleep(5)
-        page_source = driver.page_source
-        soup = BeautifulSoup(page_source, "html.parser")
+        soup = _wait_for_soup(
+            driver, IMDB_MOVIES_SEARCH_URL,
+            lambda s: s.find("script", id="__NEXT_DATA__"),
+        )
+        if soup is None:
+            print(f"    Could not load {IMDB_MOVIES_SEARCH_URL} (bot-check or blocked); keeping existing data.")
+            return existing or []
 
         json_data = (
             json.loads(soup.find("script", id="__NEXT_DATA__").text)
@@ -510,10 +534,13 @@ def fetch_top_250_movies(existing: list[dict] = None) -> list[dict]:
     movie_data = []
     driver = get_driver()
     try:
-        driver.get(IMDB_TOP_250_MOVIES_URL)
-        time.sleep(5)
-        page_source = driver.page_source
-        soup = BeautifulSoup(page_source, "html.parser")
+        soup = _wait_for_soup(
+            driver, IMDB_TOP_250_MOVIES_URL,
+            lambda s: s.find("script", attrs={"type": "application/ld+json"}),
+        )
+        if soup is None:
+            print(f"    Could not load {IMDB_TOP_250_MOVIES_URL} (bot-check or blocked); keeping existing data.")
+            return existing or []
 
         json_data = json.loads(
             soup.find("script", attrs={"type": "application/ld+json"}).text
@@ -580,10 +607,13 @@ def fetch_popular_shows(existing: list[dict] = None) -> list[dict]:
     show_data = []
     driver = get_driver()
     try:
-        driver.get(IMDB_POPULAR_TV_URL)
-        time.sleep(5)
-        page_source = driver.page_source
-        soup = BeautifulSoup(page_source, "html.parser")
+        soup = _wait_for_soup(
+            driver, IMDB_POPULAR_TV_URL,
+            lambda s: s.find("script", type="application/ld+json"),
+        )
+        if soup is None:
+            print(f"    Could not load {IMDB_POPULAR_TV_URL} (bot-check or blocked); keeping existing data.")
+            return existing or []
 
         json_data = json.loads(soup.find("script", type="application/ld+json").text)
         for show in json_data["itemListElement"]:
@@ -651,10 +681,13 @@ def fetch_top_50_shows(existing: list[dict] = None) -> list[dict]:
     show_data = []
     driver = get_driver()
     try:
-        driver.get(IMDB_TV_SEARCH_URL)
-        time.sleep(5)
-        page_source = driver.page_source
-        soup = BeautifulSoup(page_source, "html.parser")
+        soup = _wait_for_soup(
+            driver, IMDB_TV_SEARCH_URL,
+            lambda s: s.find("script", id="__NEXT_DATA__"),
+        )
+        if soup is None:
+            print(f"    Could not load {IMDB_TV_SEARCH_URL} (bot-check or blocked); keeping existing data.")
+            return existing or []
 
         json_data = (
             json.loads(soup.find("script", id="__NEXT_DATA__").text)
@@ -724,10 +757,13 @@ def fetch_top_250_tv(existing: list[dict] = None) -> list[dict]:
     show_data = []
     driver = get_driver()
     try:
-        driver.get(IMDB_TOP_250_TV_URL)
-        time.sleep(5)
-        page_source = driver.page_source
-        soup = BeautifulSoup(page_source, "html.parser")
+        soup = _wait_for_soup(
+            driver, IMDB_TOP_250_TV_URL,
+            lambda s: s.find("script", attrs={"type": "application/ld+json"}),
+        )
+        if soup is None:
+            print(f"    Could not load {IMDB_TOP_250_TV_URL} (bot-check or blocked); keeping existing data.")
+            return existing or []
 
         json_data = json.loads(
             soup.find("script", attrs={"type": "application/ld+json"}).text
