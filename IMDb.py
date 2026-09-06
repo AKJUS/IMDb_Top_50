@@ -82,6 +82,7 @@ def _wait_for_soup(driver, url: str, finder, max_wait: int = 30, retries: int = 
     data script tag, retrying full reloads if IMDb serves a bot-check
     interstitial instead of the real page. Returns None if it never shows up.
     """
+    soup = None
     for attempt in range(1, retries + 1):
         driver.get(url)
         deadline = time.time() + max_wait
@@ -91,6 +92,13 @@ def _wait_for_soup(driver, url: str, finder, max_wait: int = 30, retries: int = 
                 return soup
             time.sleep(1)
         print(f"    Attempt {attempt}/{retries}: {url} not ready after {max_wait}s, retrying...")
+
+    title = soup.title.text.strip() if soup and soup.title else "(no title)"
+    body_text = soup.get_text(separator=" ", strip=True)[:300] if soup else "(no body)"
+    print(f"    Diagnostic for {url}:")
+    print(f"      current_url : {driver.current_url}")
+    print(f"      page title  : {title}")
+    print(f"      body text   : {body_text}")
     return None
 
 
