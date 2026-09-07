@@ -26,14 +26,21 @@ jobs:
         with:
           python-version: 3.14.7
 
+      - name: Install obscura
+        run: |
+          curl -sL -o obscura.tar.gz "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.2/obscura-x86_64-linux-stealth.tar.gz"
+          mkdir -p "$HOME/.local/obscura"
+          tar xzf obscura.tar.gz -C "$HOME/.local/obscura"
+          chmod +x "$HOME/.local/obscura/obscura" "$HOME/.local/obscura/obscura-worker"
+          echo "$HOME/.local/obscura" >> "$GITHUB_PATH"
+          rm obscura.tar.gz
+
       - name: Installing Dependencies
         run: |
           pip install --upgrade pipenv
           pipenv install
 
       - name: Generate
-        env:
-          OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
         run: |
           chmod +x ./generate.sh
           pipenv run ./generate.sh
