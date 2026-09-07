@@ -2,6 +2,7 @@ name: Scrape & Publish IMDb Data
 
 on:
   push:
+  pull_request:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
@@ -12,7 +13,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v7
