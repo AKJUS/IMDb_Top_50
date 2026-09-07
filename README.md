@@ -4,7 +4,9 @@
 
 **Top IMDb Movies as of:** 2026-09-07
 
-> Rankings are recreated from IMDb's public datasets ([datasets.imdbws.com](https://datasets.imdbws.com/)). Per-title details (plot, cast, poster, box office, etc.) come from the [OMDb API](https://www.omdbapi.com/).
+**IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2026-01-01,2026-12-31)
+
+**IMDb Top 250 Movies Page:** [Link](https://www.imdb.com/chart/top/)
 
 **Top 50 Movies:** [CSV File](/data/top50/movies.csv), [JSON File](/data/top50/movies.json)
 
@@ -14,108 +16,110 @@
 
 **Top 250 TV Shows:** [CSV File](/data/top250/shows.csv), [JSON File](/data/top250/shows.json)
 
-**Popular Movies / Popular TV Shows:** [data/popular/](/data/popular/) - stale, no longer updated (IMDb's popularity-meter ranking isn't public data).
+**Popular Movies:** [CSV File](/data/popular/movies.csv), [JSON File](/data/popular/movies.json)
+
+**Popular TV Shows:** [CSV File](/data/popular/shows.csv), [JSON File](/data/popular/shows.json)
 
 ---
 
 ## IMDb Top 50 Movies List
 
-1. [Project Hail Mary](https://www.imdb.com/title/tt12042730/)
+1. [Mayday](https://www.imdb.com/title/tt28014327/)
 
-2. [The Odyssey](https://www.imdb.com/title/tt33764258/)
+2. [The Whisper Man](https://www.imdb.com/title/tt11561116/)
 
-3. [Spider-Man: Brand New Day](https://www.imdb.com/title/tt22084616/)
+3. [The Odyssey](https://www.imdb.com/title/tt33764258/)
 
-4. [Backrooms](https://www.imdb.com/title/tt26657236/)
+4. [Star Wars: The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
 
-5. [Michael](https://www.imdb.com/title/tt11378946/)
+5. [The Runner](https://www.imdb.com/title/tt34564059/)
 
-6. [Send Help](https://www.imdb.com/title/tt8036976/)
+6. [Spider-Man: Brand New Day](https://www.imdb.com/title/tt22084616/)
 
-7. [Disclosure Day](https://www.imdb.com/title/tt15047880/)
+7. [Coyote vs. Acme](https://www.imdb.com/title/tt1756855/)
 
-8. [The Rip](https://www.imdb.com/title/tt32642706/)
+8. [The Dog Stars](https://www.imdb.com/title/tt21285562/)
 
-9. [28 Years Later: The Bone Temple](https://www.imdb.com/title/tt32141377/)
+9. [Buddy](https://www.imdb.com/title/tt37281055/)
 
-10. [The Drama](https://www.imdb.com/title/tt33071426/)
+10. [The Secret Woman](https://www.imdb.com/title/tt37275992/)
 
-11. [Masters of the Universe](https://www.imdb.com/title/tt0427340/)
+11. [The End of Oak Street](https://www.imdb.com/title/tt27165187/)
 
-12. [War Machine](https://www.imdb.com/title/tt15940132/)
+12. [By Any Means](https://www.imdb.com/title/tt34379051/)
 
-13. [The Devil Wears Prada 2](https://www.imdb.com/title/tt33612209/)
+13. [I Want Your Sex](https://www.imdb.com/title/tt32332915/)
 
-14. [The Sheep Detectives](https://www.imdb.com/title/tt32565993/)
+14. [The Invite](https://www.imdb.com/title/tt14173636/)
 
-15. [Apex](https://www.imdb.com/title/tt16431404/)
+15. [Project Hail Mary](https://www.imdb.com/title/tt12042730/)
 
-16. [Punjab '95](https://www.imdb.com/title/tt28089784/)
+16. [Insidious: Out of the Further](https://www.imdb.com/title/tt32393988/)
 
-17. [Star Wars: The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
+17. [Practical Magic 2](https://www.imdb.com/title/tt32588798/)
 
-18. [Crime 101](https://www.imdb.com/title/tt32430579/)
+18. [Runner](https://www.imdb.com/title/tt31349844/)
 
-19. [Wuthering Heights](https://www.imdb.com/title/tt32897959/)
+19. [Backrooms](https://www.imdb.com/title/tt26657236/)
 
-20. [Peaky Blinders: The Immortal Man](https://www.imdb.com/title/tt15574124/)
+20. [Mutiny](https://www.imdb.com/title/tt32338669/)
 
-21. [Supergirl](https://www.imdb.com/title/tt8814476/)
+21. [The Last Sunrise](https://www.imdb.com/title/tt37654096/)
 
-22. [Mortal Kombat II](https://www.imdb.com/title/tt17490712/)
+22. [Onslaught](https://www.imdb.com/title/tt32268691/)
 
-23. [Hoppers](https://www.imdb.com/title/tt26443616/)
+23. [Fall 2: Deadpoint](https://www.imdb.com/title/tt31192372/)
 
-24. [Mercy](https://www.imdb.com/title/tt31050594/)
+24. [Street Fighter](https://www.imdb.com/title/tt27419420/)
 
-25. [Toy Story 5](https://www.imdb.com/title/tt29355505/)
+25. [Mirzapur: The Movie](https://www.imdb.com/title/tt34339725/)
 
-26. [The Super Mario Galaxy Movie](https://www.imdb.com/title/tt28650488/)
+26. [Resident Evil](https://www.imdb.com/title/tt35538033/)
 
-27. [Ready or Not 2: Here I Come](https://www.imdb.com/title/tt33978029/)
+27. [Scary Movie](https://www.imdb.com/title/tt32093575/)
 
-28. [Dhurandhar: The Revenge](https://www.imdb.com/title/tt39139925/)
+28. [Primetime](https://www.imdb.com/title/tt34206385/)
 
-29. [Lee Cronin's The Mummy](https://www.imdb.com/title/tt32612507/)
+29. [Hope](https://www.imdb.com/title/tt27369017/)
 
-30. [Melania](https://www.imdb.com/title/tt35291758/)
+30. [Hanuman Ansh](https://www.imdb.com/title/tt39390582/)
 
-31. [Scream 7](https://www.imdb.com/title/tt27047903/)
+31. [Disclosure Day](https://www.imdb.com/title/tt15047880/)
 
-32. [The Invite](https://www.imdb.com/title/tt14173636/)
+32. [The Death of Robin Hood](https://www.imdb.com/title/tt32273171/)
 
-33. [Hokum](https://www.imdb.com/title/tt35672862/)
+33. [The Sheep Detectives](https://www.imdb.com/title/tt32565993/)
 
-34. [The Last House](https://www.imdb.com/title/tt32268156/)
+34. [Teenage Sex and Death at Camp Miasma](https://www.imdb.com/title/tt35298123/)
 
-35. [The Wrecking Crew](https://www.imdb.com/title/tt33046197/)
+35. [The Last House](https://www.imdb.com/title/tt32268156/)
 
-36. [Scary Movie](https://www.imdb.com/title/tt32093575/)
+36. [Dhamaal 4](https://www.imdb.com/title/tt27548557/)
 
-37. [People We Meet on Vacation](https://www.imdb.com/title/tt22740896/)
+37. [The Girl in the River](https://www.imdb.com/title/tt21452628/)
 
-38. [Voicemails for Isabelle](https://www.imdb.com/title/tt10375624/)
+38. [Just Play Dead](https://www.imdb.com/title/tt36948232/)
 
-39. [They Will Kill You](https://www.imdb.com/title/tt31728330/)
+39. [The Mongoose](https://www.imdb.com/title/tt13611778/)
 
-40. [Remarkably Bright Creatures](https://www.imdb.com/title/tt33100314/)
+40. [Masters of the Universe](https://www.imdb.com/title/tt0427340/)
 
-41. [Greenland 2: Migration](https://www.imdb.com/title/tt14850054/)
+41. [Michael](https://www.imdb.com/title/tt11378946/)
 
-42. [Shelter](https://www.imdb.com/title/tt32357218/)
+42. [The Uprising](https://www.imdb.com/title/tt36983905/)
 
-43. [Evil Dead Burn](https://www.imdb.com/title/tt31170389/)
+43. [The Drama](https://www.imdb.com/title/tt33071426/)
 
-44. [How to Make a Killing](https://www.imdb.com/title/tt4357198/)
+44. [Pressure](https://www.imdb.com/title/tt32547691/)
 
-45. [In the Grey](https://www.imdb.com/title/tt27681354/)
+45. [Facing El Chapo](https://www.imdb.com/title/tt39390497/)
 
-46. [The Bride!](https://www.imdb.com/title/tt30851137/)
+46. [Toxic](https://www.imdb.com/title/tt27530512/)
 
-47. [Citizen Vigilante](https://www.imdb.com/title/tt35309713/)
+47. [Irumudi](https://www.imdb.com/title/tt39108319/)
 
-48. [Dhamaal 4](https://www.imdb.com/title/tt27548557/)
+48. [Tony](https://www.imdb.com/title/tt33095251/)
 
-49. [Ladies First](https://www.imdb.com/title/tt34611082/)
+49. [Avengers: Doomsday](https://www.imdb.com/title/tt21357150/)
 
-50. [The End of Oak Street](https://www.imdb.com/title/tt27165187/)
+50. [La bola negra](https://www.imdb.com/title/tt35511966/)
