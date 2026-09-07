@@ -1,10 +1,7 @@
-name: Scrape & Publish IMDb Data
+name: PR Check
 
 on:
-  push:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
+  pull_request:
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -12,7 +9,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v7
@@ -46,25 +43,10 @@ jobs:
           prettier --write .
 
       - name: Check for changes
-        id: check_changes
         run: |
           if [[ -z $(git status --porcelain) ]]; then
-            echo "changes=false" >> $GITHUB_ENV
+            echo "Nothing to update."
           else
-            echo "changes=true" >> $GITHUB_ENV
+            echo "File(s) changed -"
+            git diff --name-only
           fi
-
-      - name: Commit files
-        if: ${{ env.changes == 'true' && github.ref == 'refs/heads/main' }}
-        run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add .
-          git commit -m "Add changes"
-
-      - name: Push changes
-        if: ${{ env.changes == 'true' && github.ref == 'refs/heads/main' }}
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
