@@ -31,7 +31,6 @@ jobs:
         run: |
           pip install --upgrade pipenv
           pipenv install
-          sudo npm install -g prettier@3.5.3
 
       - name: Generate
         run: |
@@ -40,7 +39,7 @@ jobs:
 
       - name: Prettify files
         run: |
-          prettier --write .
+          npx prettier@3.5.3 --write .
 
       - name: Check for changes
         run: |
