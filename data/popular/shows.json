@@ -396,12 +396,12 @@
     "certificate": "TV-MA",
     "keywords": "coming of age drama, student, dysfunctional, high school, female protagonist",
     "countriesOfOrigin": "CA",
-    "meterRanking": "9",
-    "meterRankChange": "UP 632",
+    "meterRanking": "12",
+    "meterRankChange": "DOWN 3",
     "directors": "",
     "writers": "",
-    "stars": "Miku Martineau, Jessica Par\u00e9, Samuel Braun",
-    "topCast": "Miku Martineau, Jessica Par\u00e9, Samuel Braun, Kyle Clark",
+    "stars": "Miku Martineau, Samuel Braun, Kyle Clark",
+    "topCast": "Miku Martineau, Samuel Braun, Kyle Clark, Thomas Cadrot",
     "budget": "",
     "openingWeekendGross": "",
     "lifetimeGross": "",
@@ -417,7 +417,7 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T04:09:04.886942"
+    "last_updated": "2026-09-21T06:20:00.469070"
   },
   {
     "name": "The Mentalist",
@@ -536,17 +536,17 @@
     "certificate": "TV-MA",
     "keywords": "based on novel",
     "countriesOfOrigin": "US",
-    "meterRanking": "11",
-    "meterRankChange": "UP 211",
+    "meterRanking": "16",
+    "meterRankChange": "DOWN 5",
     "directors": "",
     "writers": "",
-    "stars": "Patrick Brammall, Maxine Peake, Carolyn Bock",
-    "topCast": "Patrick Brammall, Maxine Peake, Carolyn Bock, Brendan Cowell",
+    "stars": "Patrick Brammall, Maxine Peake, Daniel Henshall",
+    "topCast": "Patrick Brammall, Maxine Peake, Daniel Henshall, Zahra Newman",
     "budget": "",
     "openingWeekendGross": "",
     "lifetimeGross": "",
     "worldwideGross": "",
-    "filmingLocations": "Docklands Studios, Melbourne, Victoria, Australia",
+    "filmingLocations": "Melbourne, Victoria, Australia",
     "spokenLanguages": "English",
     "soundMix": "",
     "aspectRatio": "",
@@ -557,7 +557,7 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T04:09:04.886942"
+    "last_updated": "2026-09-21T06:20:00.469070"
   },
   {
     "name": "De Eetclub",
@@ -569,14 +569,14 @@
     "genres": "Crime, Drama, Mystery",
     "runtime": 0,
     "certificate": "TV-MA",
-    "keywords": "married man seduces married woman, gossip, wife flirts with another man in front of husband, deep cleavage, naked female breasts",
+    "keywords": "female rear nudity, married man seduces married woman, gossip, wife flirts with another man in front of husband, deep cleavage",
     "countriesOfOrigin": "NL",
-    "meterRanking": "23",
-    "meterRankChange": "UP 657",
+    "meterRanking": "17",
+    "meterRankChange": "UP 6",
     "directors": "",
     "writers": "",
-    "stars": "Loes Haverkort, Rifka Lodeizen, Charlie Chan Dagelet",
-    "topCast": "Loes Haverkort, Rifka Lodeizen, Charlie Chan Dagelet, Teun Luijkx",
+    "stars": "Loes Haverkort, Teun Luijkx, Rifka Lodeizen",
+    "topCast": "Loes Haverkort, Teun Luijkx, Rifka Lodeizen, Remko Vrijdag",
     "budget": "",
     "openingWeekendGross": "",
     "lifetimeGross": "",
@@ -592,7 +592,7 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T04:09:04.886942"
+    "last_updated": "2026-09-21T06:20:00.469070"
   },
   {
     "name": "Breaking Bad",
@@ -956,8 +956,8 @@
     "certificate": "TV-MA",
     "keywords": "21st century, spy thriller, political thriller, undercover mission, israeli palestinian conflict",
     "countriesOfOrigin": "IL",
-    "meterRanking": "22",
-    "meterRankChange": "UP 176",
+    "meterRanking": "28",
+    "meterRankChange": "DOWN 6",
     "directors": "",
     "writers": "",
     "stars": "Lior Raz, Itzik Cohen, Yaakov Zada-Daniel",
@@ -977,7 +977,7 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T04:09:04.886942"
+    "last_updated": "2026-09-21T06:20:00.469070"
   },
   {
     "name": "The Scandal",
@@ -1901,8 +1901,8 @@
     "certificate": "",
     "keywords": "europe, christianity, epic fantasy, celt, britain",
     "countriesOfOrigin": "US",
-    "meterRanking": "41",
-    "meterRankChange": "UP 223",
+    "meterRanking": "55",
+    "meterRankChange": "DOWN 14",
     "directors": "",
     "writers": "",
     "stars": "Tom Sharp, Rose Reid, Alex Laurence-Phillips",
@@ -1911,7 +1911,7 @@
     "openingWeekendGross": "",
     "lifetimeGross": "",
     "worldwideGross": "",
-    "filmingLocations": "Trento, Trentino, Italy",
+    "filmingLocations": "Gran Sasso, Abruzzo, Italy",
     "spokenLanguages": "English",
     "soundMix": "",
     "aspectRatio": "",
@@ -1922,7 +1922,7 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T04:09:04.886942"
+    "last_updated": "2026-09-21T06:20:00.469070"
   },
   {
     "name": "SEAL Team",
@@ -2321,8 +2321,8 @@
     "certificate": "TV-MA",
     "keywords": "",
     "countriesOfOrigin": "US",
-    "meterRanking": "46",
-    "meterRankChange": "UP 286",
+    "meterRanking": "67",
+    "meterRankChange": "DOWN 21",
     "directors": "",
     "writers": "",
     "stars": "Fatimah Hassan, Zaakirah Hisle, Chloe Ray",
@@ -2331,7 +2331,7 @@
     "openingWeekendGross": "",
     "lifetimeGross": "",
     "worldwideGross": "",
-    "filmingLocations": "",
+    "filmingLocations": "Avalon Blvd, Wilmington, Los Angeles, California, USA",
     "spokenLanguages": "English",
     "soundMix": "Dolby Digital",
     "aspectRatio": "2.00 : 1",
@@ -2342,7 +2342,7 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T04:09:04.886942"
+    "last_updated": "2026-09-21T06:20:00.469070"
   },
   {
     "name": "From",
@@ -2811,8 +2811,8 @@
     "certificate": "TV-MA",
     "keywords": "pet name in title, dog, brewery, sydney australia, romantic comedy",
     "countriesOfOrigin": "AU",
-    "meterRanking": "50",
-    "meterRankChange": "UP 96",
+    "meterRanking": "81",
+    "meterRankChange": "DOWN 31",
     "directors": "",
     "writers": "",
     "stars": "Harriet Dyer, Patrick Brammall, Emma Harvie",
@@ -2832,7 +2832,7 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T04:09:04.886942"
+    "last_updated": "2026-09-21T06:20:00.469070"
   },
   {
     "name": "Person of Interest",
@@ -2916,12 +2916,12 @@
     "certificate": "TV-MA",
     "keywords": "",
     "countriesOfOrigin": "US",
-    "meterRanking": "77",
-    "meterRankChange": "UP 498",
+    "meterRanking": "84",
+    "meterRankChange": "DOWN 7",
     "directors": "",
     "writers": "",
-    "stars": "Sharon Horgan, Scarlett Rayner, Nadia Parkes",
-    "topCast": "Sharon Horgan, Scarlett Rayner, Nadia Parkes, Harrison Dadswell",
+    "stars": "Sharon Horgan, Libby Mai, Scarlett Rayner",
+    "topCast": "Sharon Horgan, Libby Mai, Scarlett Rayner, Nadia Parkes",
     "budget": "",
     "openingWeekendGross": "",
     "lifetimeGross": "",
@@ -2937,7 +2937,7 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T04:09:04.886942"
+    "last_updated": "2026-09-21T06:20:00.469070"
   },
   {
     "name": "Grey&apos;s Anatomy",
@@ -3266,8 +3266,8 @@
     "certificate": "TV-14",
     "keywords": "mockumentary comedy, sitcom comedy, gay character, newspaper, male newspaper editor",
     "countriesOfOrigin": "US",
-    "meterRanking": "37",
-    "meterRankChange": "UP 169",
+    "meterRanking": "94",
+    "meterRankChange": "DOWN 57",
     "directors": "",
     "writers": "",
     "stars": "Domhnall Gleeson, Sabrina Impacciatore, Chelsea Frei",
@@ -3287,7 +3287,7 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T04:09:04.886942"
+    "last_updated": "2026-09-21T06:20:00.469070"
   },
   {
     "name": "Succession",
@@ -3336,12 +3336,12 @@
     "certificate": "TV-MA",
     "keywords": "tv mini series",
     "countriesOfOrigin": "CA",
-    "meterRanking": "16",
-    "meterRankChange": "UP 845",
+    "meterRanking": "96",
+    "meterRankChange": "DOWN 80",
     "directors": "",
     "writers": "",
-    "stars": "Josh Hartnett, Mackenzie Davis, Ruby Stokes",
-    "topCast": "Josh Hartnett, Mackenzie Davis, Ruby Stokes, Natasha Henstridge",
+    "stars": "Josh Hartnett, Mackenzie Davis, Natasha Henstridge",
+    "topCast": "Josh Hartnett, Mackenzie Davis, Natasha Henstridge, Charlie Heaton",
     "budget": "",
     "openingWeekendGross": "",
     "lifetimeGross": "",
@@ -3357,7 +3357,7 @@
     "isSeries": true,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T04:09:04.886942"
+    "last_updated": "2026-09-21T06:20:00.469070"
   },
   {
     "name": "The Big Bang Theory",

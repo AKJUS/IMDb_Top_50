@@ -641,8 +641,8 @@
     "certificate": "R",
     "keywords": "minister, world war two, year 1939, black ops, gunfight",
     "countriesOfOrigin": "US",
-    "meterRanking": "95",
-    "meterRankChange": "UP 22",
+    "meterRanking": "19",
+    "meterRankChange": "UP 76",
     "directors": "Guy Ritchie",
     "writers": "Paul Tamasy, Eric Johnson, Arash Amel",
     "stars": "Henry Cavill, Alan Ritchson, Alex Pettyfer",
@@ -662,7 +662,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:58:45.557430"
+    "last_updated": "2026-09-21T06:15:12.388283"
   },
   {
     "name": "The Fix",
@@ -676,17 +676,17 @@
     "certificate": "R",
     "keywords": "journey, female nudity",
     "countriesOfOrigin": "US",
-    "meterRanking": "56",
-    "meterRankChange": "UP 69",
+    "meterRanking": "20",
+    "meterRankChange": "UP 36",
     "directors": "Guy Moshe",
     "writers": "Guy Moshe, Mark Bacci, Ron Hutchinson",
     "stars": "Zachary Levi, Liam Neeson, Quincy Isaiah",
     "topCast": "Zachary Levi, Liam Neeson, Quincy Isaiah, Wes Chatham",
     "budget": "USD 32,000,000",
-    "openingWeekendGross": "",
-    "lifetimeGross": "",
-    "worldwideGross": "",
-    "filmingLocations": "Georgia",
+    "openingWeekendGross": "USD 726,161",
+    "lifetimeGross": "USD 1,025,222",
+    "worldwideGross": "USD 1,036,654",
+    "filmingLocations": "Mississippi, USA",
     "spokenLanguages": "English",
     "soundMix": "",
     "aspectRatio": "2.35 : 1",
@@ -697,7 +697,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:58:45.557430"
+    "last_updated": "2026-09-21T06:15:12.388283"
   },
   {
     "name": "Tony",
@@ -1234,10 +1234,10 @@
     "genres": "Drama, Romance, Thriller",
     "runtime": 104,
     "certificate": "TV-MA",
-    "keywords": "female buttocks, cleavage, dancing, sexual positions, kidnapping",
+    "keywords": "female buttocks, dancing, sexual positions, kidnapping, flirting",
     "countriesOfOrigin": "ES",
-    "meterRanking": "15",
-    "meterRankChange": "UP 668",
+    "meterRanking": "36",
+    "meterRankChange": "DOWN 21",
     "directors": "\u00d3scar Pedraza",
     "writers": "Sof\u00eda Cuenca, Mercedes Ron",
     "stars": "Ester Exp\u00f3sito, Hugo Diego Garcia, Pablo Molinero",
@@ -1257,7 +1257,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:58:45.557430"
+    "last_updated": "2026-09-21T06:15:12.388283"
   },
   {
     "name": "Run Hide Fight: Infidels",
@@ -1339,14 +1339,14 @@
     "genres": "Comedy, Drama",
     "runtime": 111,
     "certificate": "PG-13",
-    "keywords": "",
+    "keywords": "african american, six word title",
     "countriesOfOrigin": "US",
-    "meterRanking": "9",
-    "meterRankChange": "UP 1227",
+    "meterRanking": "39",
+    "meterRankChange": "DOWN 30",
     "directors": "Tyler Perry",
     "writers": "",
-    "stars": "Tyler Perry, Taraji P. Henson, Richard T. Jones",
-    "topCast": "Tyler Perry, Taraji P. Henson, Richard T. Jones, Tasha Smith",
+    "stars": "Tyler Perry, Taraji P. Henson, Jill Scott",
+    "topCast": "Tyler Perry, Taraji P. Henson, Jill Scott, Richard T. Jones",
     "budget": "",
     "openingWeekendGross": "",
     "lifetimeGross": "",
@@ -1362,7 +1362,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:58:45.557430"
+    "last_updated": "2026-09-21T06:15:12.388283"
   },
   {
     "name": "Disclosure Day",
@@ -1656,8 +1656,8 @@
     "certificate": "R",
     "keywords": "psychological thriller, book, based on novel",
     "countriesOfOrigin": "US",
-    "meterRanking": "79",
-    "meterRankChange": "UP 37",
+    "meterRanking": "48",
+    "meterRankChange": "UP 31",
     "directors": "Michael Showalter",
     "writers": "Nick Antosca, Colleen Hoover",
     "stars": "Anne Hathaway, Dakota Johnson, Josh Hartnett",
@@ -1677,7 +1677,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:58:45.557430"
+    "last_updated": "2026-09-21T06:15:12.388283"
   },
   {
     "name": "Barbarian",
@@ -1796,8 +1796,8 @@
     "certificate": "PG-13",
     "keywords": "superhero, hero, dc universe, alien, comicbook movie",
     "countriesOfOrigin": "US",
-    "meterRanking": "74",
-    "meterRankChange": "UP 46",
+    "meterRanking": "52",
+    "meterRankChange": "UP 22",
     "directors": "James Gunn",
     "writers": "James Gunn, Jerry Siegel, Joe Shuster",
     "stars": "David Corenswet, Rachel Brosnahan, Nicholas Hoult",
@@ -1817,7 +1817,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:58:45.557430"
+    "last_updated": "2026-09-21T06:15:12.388283"
   },
   {
     "name": "Mutiny",
@@ -2671,12 +2671,12 @@
     "certificate": "",
     "keywords": "feel good romance",
     "countriesOfOrigin": "IN",
-    "meterRanking": "60",
-    "meterRankChange": "UP 726",
+    "meterRanking": "77",
+    "meterRankChange": "DOWN 17",
     "directors": "Venky Atluri",
     "writers": "Venky Atluri, K N Vijayakumar",
-    "stars": "Mamitha Baiju, Suriya, Radhika Sarathkumar",
-    "topCast": "Mamitha Baiju, Suriya, Radhika Sarathkumar, Raveena Tandon",
+    "stars": "Suriya, Mamitha Baiju, Radhika Sarathkumar",
+    "topCast": "Suriya, Mamitha Baiju, Radhika Sarathkumar, Raveena Tandon",
     "budget": "",
     "openingWeekendGross": "USD 1,634,000",
     "lifetimeGross": "USD 1,634,000",
@@ -2692,7 +2692,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:58:45.557430"
+    "last_updated": "2026-09-21T06:15:12.388283"
   },
   {
     "name": "Sense and Sensibility",
@@ -2741,8 +2741,8 @@
     "certificate": "",
     "keywords": "palestinian genocide, gaza genocide",
     "countriesOfOrigin": "GB",
-    "meterRanking": "83",
-    "meterRankChange": "UP 9666",
+    "meterRanking": "79",
+    "meterRankChange": "UP 4",
     "directors": "",
     "writers": "Yuval Abraham, Rachel Szor",
     "stars": "Yuval Abraham",
@@ -2762,7 +2762,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:58:45.557430"
+    "last_updated": "2026-09-21T06:15:12.388283"
   },
   {
     "name": "Avengers: Endgame",
@@ -2810,9 +2810,9 @@
     "runtime": 174,
     "certificate": "",
     "keywords": "",
-    "countriesOfOrigin": "",
-    "meterRanking": "21",
-    "meterRankChange": "",
+    "countriesOfOrigin": "US",
+    "meterRanking": "81",
+    "meterRankChange": "DOWN 60",
     "directors": "",
     "writers": "",
     "stars": "Billy Evans, Nathan Fielder, Elizabeth Holmes",
@@ -2822,17 +2822,17 @@
     "lifetimeGross": "",
     "worldwideGross": "",
     "filmingLocations": "",
-    "spokenLanguages": "",
+    "spokenLanguages": "English",
     "soundMix": "",
     "aspectRatio": "1.33 : 1",
-    "color": "",
+    "color": "Color",
     "awardWins": 0,
     "awardNominations": 0,
     "titleType": "Movie",
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:58:45.557430"
+    "last_updated": "2026-09-21T06:15:12.388283"
   },
   {
     "name": "Interstellar",
@@ -2986,16 +2986,16 @@
     "certificate": "PG",
     "keywords": "live action adaptation, sea adventure, polynesian, based on film, based on cartoon",
     "countriesOfOrigin": "US",
-    "meterRanking": "39",
-    "meterRankChange": "UP 252",
+    "meterRanking": "86",
+    "meterRankChange": "DOWN 47",
     "directors": "Thomas Kail",
     "writers": "Jared Bush, Dana Ledoux Miller, Ron Clements",
     "stars": "Dwayne Johnson, Catherine Laga'aia, Rena Owen",
     "topCast": "Dwayne Johnson, Catherine Laga'aia, Rena Owen, John Tui",
     "budget": "USD 250,000,000",
     "openingWeekendGross": "USD 43,142,824",
-    "lifetimeGross": "USD 126,229,270",
-    "worldwideGross": "USD 319,915,270",
+    "lifetimeGross": "USD 126,229,663",
+    "worldwideGross": "USD 321,931,663",
     "filmingLocations": "Oahu, Hawaii, USA",
     "spokenLanguages": "English, Samoan",
     "soundMix": "IMAX 6-Track, Dolby Atmos, Dolby Digital",
@@ -3007,7 +3007,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:58:45.557430"
+    "last_updated": "2026-09-21T06:15:12.388283"
   },
   {
     "name": "Sinners",
@@ -3091,8 +3091,8 @@
     "certificate": "R",
     "keywords": "serial killer, los angeles california, murder, murder investigation, murder of a prostitute",
     "countriesOfOrigin": "US",
-    "meterRanking": "48",
-    "meterRankChange": "UP 1088",
+    "meterRanking": "89",
+    "meterRankChange": "DOWN 41",
     "directors": "John Lee Hancock",
     "writers": "",
     "stars": "Denzel Washington, Rami Malek, Jared Leto",
@@ -3112,7 +3112,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:58:45.557430"
+    "last_updated": "2026-09-21T06:15:12.388283"
   },
   {
     "name": "The Death of Robin Hood",

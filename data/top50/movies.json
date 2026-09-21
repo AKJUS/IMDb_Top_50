@@ -454,10 +454,10 @@
     "metascore": 50,
     "certificate": "PG-13",
     "status": "Released",
-    "keywords": "dog, alien, animal, pet, shared universe",
+    "keywords": "dog, alien, pet, superhero action, animal",
     "countriesOfOrigin": "US",
-    "meterRanking": "7",
-    "meterRankChange": "UP 66",
+    "meterRanking": "15",
+    "meterRankChange": "DOWN 8",
     "directors": "Craig Gillespie",
     "writers": "Jerry Siegel, Joe Shuster, Ana Nogueira",
     "stars": "Milly Alcock, David Corenswet, Eve Ridley",
@@ -468,7 +468,7 @@
     "worldwideGross": "USD 126,366,532",
     "filmingLocations": "Iceland",
     "spokenLanguages": "English",
-    "soundMix": "Dolby Digital, Dolby Atmos, IMAX 6-Track",
+    "soundMix": "Dolby Digital, Dolby Atmos, IMAX 6-Track, Dolby Surround 7.1",
     "aspectRatio": "2.39 : 1",
     "color": "Color",
     "awardWins": 1,
@@ -477,7 +477,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:46:58.173780"
+    "last_updated": "2026-09-21T06:06:45.221954"
   },
   {
     "name": "Heart of the Beast",
@@ -496,8 +496,8 @@
     "status": "Released",
     "keywords": "dog, special forces soldier, army special forces soldier, alaska, combat dog",
     "countriesOfOrigin": "US",
-    "meterRanking": "44",
-    "meterRankChange": "UP 24",
+    "meterRanking": "16",
+    "meterRankChange": "UP 28",
     "directors": "David Ayer",
     "writers": "",
     "stars": "Brad Pitt, J.K. Simmons, Anna Lambe",
@@ -517,7 +517,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:46:58.173780"
+    "last_updated": "2026-09-21T06:06:45.221954"
   },
   {
     "name": "Coyote vs. Acme",
@@ -577,7 +577,7 @@
     "keywords": "escape, jeddah saudi arabia, asset seizure, team action, caper",
     "countriesOfOrigin": "GB",
     "meterRanking": "18",
-    "meterRankChange": "UP 46",
+    "meterRankChange": "FLAT 0",
     "directors": "Guy Ritchie",
     "writers": "",
     "stars": "Henry Cavill, Jake Gyllenhaal, Eiza Gonz\u00e1lez",
@@ -597,7 +597,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:46:58.173780"
+    "last_updated": "2026-09-21T06:06:45.221954"
   },
   {
     "name": "The Fix",
@@ -616,17 +616,17 @@
     "status": "Released",
     "keywords": "journey, female nudity",
     "countriesOfOrigin": "US",
-    "meterRanking": "56",
-    "meterRankChange": "UP 69",
+    "meterRanking": "20",
+    "meterRankChange": "UP 36",
     "directors": "Guy Moshe",
     "writers": "Guy Moshe, Mark Bacci, Ron Hutchinson",
     "stars": "Zachary Levi, Liam Neeson, Quincy Isaiah",
     "topCast": "Zachary Levi, Liam Neeson, Quincy Isaiah, Wes Chatham",
     "budget": "USD 32,000,000",
-    "openingWeekendGross": "",
-    "lifetimeGross": "",
-    "worldwideGross": "",
-    "filmingLocations": "Georgia",
+    "openingWeekendGross": "USD 726,161",
+    "lifetimeGross": "USD 1,025,222",
+    "worldwideGross": "USD 1,036,654",
+    "filmingLocations": "Mississippi, USA",
     "spokenLanguages": "English",
     "soundMix": "",
     "aspectRatio": "2.35 : 1",
@@ -637,7 +637,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:46:58.173780"
+    "last_updated": "2026-09-21T06:06:45.221954"
   },
   {
     "name": "Tony",
@@ -1056,8 +1056,8 @@
     "status": "Released",
     "keywords": "lighthouse, woman wears a short dress, male rear nudity, male nudity, romantic comedy",
     "countriesOfOrigin": "US",
-    "meterRanking": "20",
-    "meterRankChange": "UP 45",
+    "meterRanking": "32",
+    "meterRankChange": "DOWN 12",
     "directors": "Will Gluck",
     "writers": "",
     "stars": "Callum Turner, Tyonne Chambers, Grace Dumdaw",
@@ -1065,7 +1065,7 @@
     "budget": "",
     "openingWeekendGross": "USD 5,508,045",
     "lifetimeGross": "USD 11,506,280",
-    "worldwideGross": "USD 23,331,483",
+    "worldwideGross": "USD 24,826,132",
     "filmingLocations": "New York City, New York, USA",
     "spokenLanguages": "English",
     "soundMix": "Dolby Surround 5.1, Dolby Surround 7.1, Dolby Digital",
@@ -1077,7 +1077,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:46:58.173780"
+    "last_updated": "2026-09-21T06:06:45.221954"
   },
   {
     "name": "Mr. Irrelevant",
@@ -1174,10 +1174,10 @@
     "metascore": "",
     "certificate": "TV-MA",
     "status": "Released",
-    "keywords": "female buttocks, cleavage, dancing, sexual positions, kidnapping",
+    "keywords": "female buttocks, dancing, sexual positions, kidnapping, flirting",
     "countriesOfOrigin": "ES",
-    "meterRanking": "15",
-    "meterRankChange": "UP 668",
+    "meterRanking": "36",
+    "meterRankChange": "DOWN 21",
     "directors": "\u00d3scar Pedraza",
     "writers": "Sof\u00eda Cuenca, Mercedes Ron",
     "stars": "Ester Exp\u00f3sito, Hugo Diego Garcia, Pablo Molinero",
@@ -1197,7 +1197,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:46:58.173780"
+    "last_updated": "2026-09-21T06:06:45.221954"
   },
   {
     "name": "Run Hide Fight: Infidels",
@@ -1256,13 +1256,13 @@
     "status": "Completed",
     "keywords": "political satire, satire, dark comedy, satire comedy",
     "countriesOfOrigin": "GB",
-    "meterRanking": "45",
-    "meterRankChange": "UP 53",
+    "meterRanking": "38",
+    "meterRankChange": "UP 7",
     "directors": "Alejandro G. I\u00f1\u00e1rritu",
     "writers": "Sabina Berman, Jez Butterworth, Alexander Dinelaris",
     "stars": "Tom Cruise, Riz Ahmed, John Goodman",
     "topCast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra H\u00fcller",
-    "budget": "",
+    "budget": "USD 125,000,000",
     "openingWeekendGross": "",
     "lifetimeGross": "",
     "worldwideGross": "",
@@ -1277,7 +1277,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:46:58.173780"
+    "last_updated": "2026-09-21T06:06:45.221954"
   },
   {
     "name": "Why Did I Get Married Again?",
@@ -1294,14 +1294,14 @@
     "metascore": "",
     "certificate": "PG-13",
     "status": "Released",
-    "keywords": "",
+    "keywords": "african american, six word title",
     "countriesOfOrigin": "US",
-    "meterRanking": "9",
-    "meterRankChange": "UP 1227",
+    "meterRanking": "39",
+    "meterRankChange": "DOWN 30",
     "directors": "Tyler Perry",
     "writers": "",
-    "stars": "Tyler Perry, Taraji P. Henson, Richard T. Jones",
-    "topCast": "Tyler Perry, Taraji P. Henson, Richard T. Jones, Tasha Smith",
+    "stars": "Tyler Perry, Taraji P. Henson, Jill Scott",
+    "topCast": "Tyler Perry, Taraji P. Henson, Jill Scott, Richard T. Jones",
     "budget": "",
     "openingWeekendGross": "",
     "lifetimeGross": "",
@@ -1317,7 +1317,7 @@
     "isSeries": false,
     "isEpisode": false,
     "isAdult": false,
-    "last_updated": "2026-09-14T03:46:58.173780"
+    "last_updated": "2026-09-21T06:06:45.221954"
   },
   {
     "name": "Disclosure Day",
